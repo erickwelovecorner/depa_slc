@@ -1,7 +1,7 @@
 # Living / sala
 
-Estado: refs recibidas, estilo aterrizado (fase 1).  
-Pendiente: cruzar con fotos y medidas del depa real (fase 3).
+Estado: **zona cerrada** (fase 1).  
+Pendiente: cruzar con fotos y medidas del depa real (fase 3). Capa editorial: [objetos](../objetos.md).
 
 Refs: [`refs/living/01-collage.png`](../../refs/living/01-collage.png)
 

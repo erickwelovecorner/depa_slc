@@ -1,33 +1,50 @@
-# Depa-csl — estilo (en construcción)
+# Depa-csl — concepto
 
 Proyecto: **depa-csl** (`depa_slc`).  
-Hilo de contexto: **refes**. Primero moodboard por zona; después el depa real.
+Hilo: **refes**.
 
-## Cómo se está armando
+Zonas principales **cerradas** (fase 1). Baño y terraza van después. El depa real (fotos, medidas) es fase 3.
 
-1. Refs visuales por zona/cuarto.
-2. Aterrizar concepto y estilo (qué se repite, paleta, materiales, sí/no).
-3. Fotos y especificaciones del depa actual → cómo aplicar el estilo con restricciones reales.
+## Cómo se arma
+
+1. Refs por zona → aterrizaje escrito.
+2. Concepto de casa + capa de objetos (esta página).
+3. Depa real → cómo aplicar con restricciones.
+
+## Concepto (cerrado)
+
+**Mínimo y cómodo, con oficina editorial.**  
+Sobre blanco, piso claro, pocas piezas, perfil bajo. Se vive: teddy, lino arrugado, mesa redonda, audio. Se trabaja: isla detrás del sofá, revistas, vinyl, tablero, ruedas. Se nota un diseñador porque hay **una cosa rara y poca cosa**, no porque esté lleno.
+
+No es showroom. No es bodega creativa. Es un loft curado que se puede mover.
+
+Palabras: **mínimo · cómodo · editorial · móvil · una rareza**.
 
 ## Zonas
 
-| Zona | Estado |
-|---|---|
-| [Living / sala](zonas/living.md) | Refs aterrizadas |
-| [Cocina / comedor](zonas/cocina.md) | Refs aterrizadas |
-| [Zona de trabajo](zonas/trabajo.md) | Layout decidido; refs aterrizadas |
-| [Recámara](zonas/recamara.md) | Refs aterrizadas |
-| Resto | Pendiente de refs |
+| Zona | Estado | Ancla |
+|---|---|---|
+| [Living / sala](zonas/living.md) | Cerrada | Teddy bajo + escena de piezas |
+| [Cocina / comedor](zonas/cocina.md) | Cerrada | Mesa redonda + colgante |
+| [Zona de trabajo](zonas/trabajo.md) | Cerrada (layout decidido) | Escritorio isla detrás del teddy |
+| [Recámara](zonas/recamara.md) | Cerrada | Plataforma baja + Akari |
+| [Objetos](objetos.md) | Cerrada (capa de casa) | Pocas cosas, ruedas, una rara |
+| Baño, terraza | Después | — |
 
-## Lectura hasta ahora (living + cocina + trabajo + recámara)
+## Lenguaje compartido
 
-Dirección que se confirma:
+- **Sobre:** muros blancos, piso madera clara o concreto.
+- **Luz:** farol de papel / cúpula como lámpara de casa.
+- **Contraste:** negro, madera, metal (cromo, inox, alambre).
+- **Perfil bajo:** cama, teddy, mesas, TV.
+- **Aire:** piso vacío; lo que hay se ve porque hay poco.
+- **Acento:** una nota por escena (rojo o check en cocina; carbón en recámara). El rojo no viaja a la cama.
+- **Editorial:** stacks, crates, casters, tablero, cinta. Ver [objetos](objetos.md).
 
-**Minimalismo curado, mid-century y loft urbano.** Sobre blanco, piso claro, pocas piezas, contraste negro/madera/metal, **lámpara de papel como pieza de casa**, guardado a la vista donde toca.
+## Lo que no es este depa
 
-- Living: teddy bajo + escena de piezas. Detrás, escritorio **isla**.
-- Cocina: mesa **redonda** + colgante; inox o negro; acento rojo o check.
-- Trabajo: misma sala. Cubierta de madera, patas ligeras.
-- Recámara: plataforma baja, lino arrugado, Akari centrado, buró-objeto. Más quieta; sin rojo ni persa.
-
-No cerrar el concepto global hasta baños, acceso, etc.
+- Catálogo a juego (burós, sillas, cojines).
+- Beige-on-beige sin metal ni negro.
+- Oficina escondida en un rincón.
+- Hotel, farmhouse, “todo en su cajita”.
+- Exceso de objetos de diseñador.

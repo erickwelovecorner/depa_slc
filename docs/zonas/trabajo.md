@@ -1,7 +1,7 @@
 # Zona de trabajo (isla en el living)
 
-Estado: idea de layout **más avanzada que el resto**; refs recibidas, estilo aterrizado (fase 1).  
-Pendiente: cruzar con fotos y medidas del depa real (fase 3).
+Estado: **zona cerrada** (fase 1). Layout decidido.  
+Pendiente: cruzar con fotos y medidas del depa real (fase 3). Aquí la capa editorial es más fuerte: [objetos](../objetos.md).
 
 Refs: [`refs/trabajo/01-collage.png`](../../refs/trabajo/01-collage.png)
 

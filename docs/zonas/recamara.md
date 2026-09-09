@@ -1,7 +1,7 @@
 # Recámara
 
-Estado: refs recibidas, estilo aterrizado (fase 1).  
-Pendiente: cruzar con fotos y medidas del depa real (fase 3).
+Estado: **zona cerrada** (fase 1).  
+Pendiente: cruzar con fotos y medidas del depa real (fase 3). Capa editorial baja: [objetos](../objetos.md). Sin moodboard ni ruedas en la cama.
 
 Refs: [`refs/recamara/01-collage.png`](../../refs/recamara/01-collage.png)
 

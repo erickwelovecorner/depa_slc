@@ -1,10 +1,11 @@
 # depa-csl
 
-Contexto de diseño del departamento. Moodboards por zona, concepto y, después, cómo aplicarlo al depa real.
+Contexto de diseño del departamento. Zonas principales y concepto **cerrados**. Baño y terraza van después; luego el depa real.
 
 ## Docs
 
-- [Estilo (en construcción)](docs/ESTILO.md)
+- [Concepto](docs/ESTILO.md)
+- [Objetos / capa editorial](docs/objetos.md)
 - [Living / sala](docs/zonas/living.md)
 - [Cocina / comedor](docs/zonas/cocina.md)
 - [Zona de trabajo](docs/zonas/trabajo.md)
@@ -16,3 +17,4 @@ Contexto de diseño del departamento. Moodboards por zona, concepto y, después,
 - [Cocina](refs/cocina/)
 - [Trabajo](refs/trabajo/)
 - [Recámara](refs/recamara/)
+- [Objetos](refs/objetos/)
