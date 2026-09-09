@@ -34,7 +34,7 @@ Estilo: mismo loft curado. El trabajo se lee como otra pieza del living, al nive
 | Teddy | Verde bosque, pelo/bouclé | Sofá que da a la sala (depa real; no crudo) |
 | Acento | Rojo (silla o patas), verde (mat, planta) | Una nota, no las dos fuertes |
 
-El teddy es el volumen stuffed claro. El escritorio no pelea: madera + pata delgada. Si hay rojo, es el mismo rojo de las sillas de cocina, no un rojo nuevo.
+El teddy es el volumen stuffed **verde**. El escritorio no pelea: madera + pata delgada. No sumar más verde (plantas ya hay). Rojo, si aparece, es de cocina; no hace falta en esta sala.
 
 ## Materiales
 
