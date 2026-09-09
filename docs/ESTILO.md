@@ -16,16 +16,18 @@ Hilo de contexto: **refes**. Primero moodboard por zona; después el depa real.
 | [Living / sala](zonas/living.md) | Refs aterrizadas |
 | [Cocina / comedor](zonas/cocina.md) | Refs aterrizadas |
 | [Zona de trabajo](zonas/trabajo.md) | Layout decidido; refs aterrizadas |
+| [Recámara](zonas/recamara.md) | Refs aterrizadas |
 | Resto | Pendiente de refs |
 
-## Lectura hasta ahora (living + cocina + trabajo)
+## Lectura hasta ahora (living + cocina + trabajo + recámara)
 
 Dirección que se confirma:
 
-**Minimalismo curado, mid-century y loft urbano.** Sobre blanco, piso claro (madera o concreto), pocas piezas, contraste negro/madera/metal, lámpara como escultura, guardado a la vista.
+**Minimalismo curado, mid-century y loft urbano.** Sobre blanco, piso claro, pocas piezas, contraste negro/madera/metal, **lámpara de papel como pieza de casa**, guardado a la vista donde toca.
 
-- Living: teddy bajo + escena de piezas. Detrás, escritorio **isla** (no oficina aparte).
+- Living: teddy bajo + escena de piezas. Detrás, escritorio **isla**.
 - Cocina: mesa **redonda** + colgante; inox o negro; acento rojo o check.
-- Trabajo: misma sala. Cubierta de madera gruesa, patas ligeras, una silla.
+- Trabajo: misma sala. Cubierta de madera, patas ligeras.
+- Recámara: plataforma baja, lino arrugado, Akari centrado, buró-objeto. Más quieta; sin rojo ni persa.
 
-No cerrar el concepto global hasta recámara, baños, etc.
+No cerrar el concepto global hasta baños, acceso, etc.
