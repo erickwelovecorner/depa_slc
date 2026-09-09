@@ -7,7 +7,7 @@ Refs: [`refs/living/01-collage.png`](../../refs/living/01-collage.png)
 
 ## Qué es este living
 
-No es un living “decorado”. Es un **escenario de piezas**: sofá, silla, mesa, lámpara y (casi siempre) audio. Paredes blancas, piso claro, poco objeto suelto. Lo que hay se ve porque hay aire alrededor.
+No es un living “decorado”. Es un **escenario de piezas**: sofá, silla, mesa, lámpara y (casi siempre) audio. Paredes blancas, piso claro, poco objeto suelto — y lo suelto es editorial (revistas, vinyl, un carrito), no souvenirs. Lo que hay se ve porque hay aire alrededor.
 
 Estilo: **minimalismo curado + mid-century + loft urbano**. Cómodo, bajo, con contraste fuerte (blanco vs. negro/madera oscura) y una lámpara que actúa como escultura.
 
