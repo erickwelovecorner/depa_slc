@@ -7,8 +7,10 @@ Contexto de diseño del departamento. Moodboards por zona, concepto y, después,
 - [Estilo (en construcción)](docs/ESTILO.md)
 - [Living / sala](docs/zonas/living.md)
 - [Cocina / comedor](docs/zonas/cocina.md)
+- [Zona de trabajo](docs/zonas/trabajo.md)
 
 ## Refs
 
 - [Living](refs/living/)
 - [Cocina](refs/cocina/)
+- [Trabajo](refs/trabajo/)

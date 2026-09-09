@@ -15,14 +15,17 @@ Hilo de contexto: **refes**. Primero moodboard por zona; después el depa real.
 |---|---|
 | [Living / sala](zonas/living.md) | Refs aterrizadas |
 | [Cocina / comedor](zonas/cocina.md) | Refs aterrizadas |
+| [Zona de trabajo](zonas/trabajo.md) | Layout decidido; refs aterrizadas |
 | Resto | Pendiente de refs |
 
-## Lectura hasta ahora (living + cocina)
+## Lectura hasta ahora (living + cocina + trabajo)
 
-Dirección que se confirma entre las dos zonas:
+Dirección que se confirma:
 
-**Minimalismo curado, mid-century y loft urbano.** Sobre blanco, piso claro (madera o concreto), pocas piezas, contraste negro/madera/metal, lámpara como escultura, guardado a la vista (audio en sala, libros/loza en cocina).
+**Minimalismo curado, mid-century y loft urbano.** Sobre blanco, piso claro (madera o concreto), pocas piezas, contraste negro/madera/metal, lámpara como escultura, guardado a la vista.
 
-Lo que aporta la cocina: mesa **redonda** como ancla, sillas desparejas, acero inox o gabinete negro, acento rojo o check. El comedor es la misma zona que la tarja.
+- Living: teddy bajo + escena de piezas. Detrás, escritorio **isla** (no oficina aparte).
+- Cocina: mesa **redonda** + colgante; inox o negro; acento rojo o check.
+- Trabajo: misma sala. Cubierta de madera gruesa, patas ligeras, una silla.
 
 No cerrar el concepto global hasta recámara, baños, etc.

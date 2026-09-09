@@ -11,6 +11,8 @@ No es un living “decorado”. Es un **escenario de piezas**: sofá, silla, mes
 
 Estilo: **minimalismo curado + mid-century + loft urbano**. Cómodo, bajo, con contraste fuerte (blanco vs. negro/madera oscura) y una lámpara que actúa como escultura.
 
+**Decisión posterior (zona de trabajo):** el sofá del living es un **teddy** (pelo/bouclé, perfil bajo). Detrás, el escritorio flota como isla. Ver [trabajo](trabajo.md). El collage de esta zona sigue valiendo para atmósfera; el teddy sustituye al sofá de piel/terciopelo oscuro como pieza stuffed.
+
 ## Paleta
 
 | Rol | Color | Dónde |
@@ -44,7 +46,7 @@ No hay pasteles. El color vive en **una pieza** (sofá verde, lámpara anillo, a
 
 Piezas que aparecen una y otra vez:
 
-- Sofá piel negra o tela oscura, líneas rectas
+- Sofá **teddy** (decisión de proyecto) o, en refs, piel/terciopelo oscuro
 - Lounge Togo / canalé bajo
 - Silla cromo + piel (Bauhaus)
 - Mesa listones de madera oscura

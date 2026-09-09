@@ -14,6 +14,7 @@ Este hilo y estos docs aterrizan **refs → concepto → aplicación en el depa 
 
 ## Estado
 
-- Living / sala: refs recibidas, estilo aterrizado.
+- Living / sala: refs recibidas, estilo aterrizado. Sofá = teddy; escritorio isla detrás (ver zona de trabajo).
 - Cocina / comedor: refs recibidas, estilo aterrizado.
+- Zona de trabajo: layout decidido (isla detrás del teddy); refs aterrizadas.
 - Resto de zonas: pendiente.
