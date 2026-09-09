@@ -3,13 +3,15 @@
 Proyecto: **depa-csl** (`depa_slc`).  
 Hilo: **refes**.
 
-Zonas principales **cerradas** (fase 1). Baño y terraza van después. El depa real (fotos, medidas) es fase 3.
+Zonas principales **cerradas** (fase 1). Baño y terraza van después.
+
+Fase 3 empezó: [depa real](depa-real.md). La base living/trabajo ya existe. Restricciones: espacio chico, 6–12 meses, ~1 mes de trabajo, **quitar antes que comprar**.
 
 ## Cómo se arma
 
 1. Refs por zona → aterrizaje escrito.
 2. Concepto de casa + capa de objetos (esta página).
-3. Depa real → cómo aplicar con restricciones.
+3. Depa real → cómo aplicar con restricciones. Ver [depa real](depa-real.md).
 
 ## Concepto (cerrado)
 
@@ -29,6 +31,7 @@ Palabras: **mínimo · cómodo · editorial · móvil · una rareza**.
 | [Zona de trabajo](zonas/trabajo.md) | Cerrada (layout decidido) | Escritorio isla detrás del teddy |
 | [Recámara](zonas/recamara.md) | Cerrada | Plataforma baja + Akari |
 | [Objetos](objetos.md) | Cerrada (capa de casa) | Pocas cosas, ruedas, una rara |
+| [Depa real](depa-real.md) | Fase 3: living/trabajo | Base ya construida; quitar y agrupar |
 | Baño, terraza | Después | — |
 
 ## Lenguaje compartido

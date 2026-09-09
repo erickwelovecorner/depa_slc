@@ -1,10 +1,11 @@
 # depa-csl
 
-Contexto de diseño del departamento. Zonas principales y concepto **cerrados**. Baño y terraza van después; luego el depa real.
+Contexto de diseño del departamento. Zonas principales cerradas. Fase 3: el depa real (living/trabajo ya fotografiado).
 
 ## Docs
 
 - [Concepto](docs/ESTILO.md)
+- [Depa real](docs/depa-real.md)
 - [Objetos / capa editorial](docs/objetos.md)
 - [Living / sala](docs/zonas/living.md)
 - [Cocina / comedor](docs/zonas/cocina.md)
@@ -18,3 +19,4 @@ Contexto de diseño del departamento. Zonas principales y concepto **cerrados**.
 - [Trabajo](refs/trabajo/)
 - [Recámara](refs/recamara/)
 - [Objetos](refs/objetos/)
+- [Depa real](refs/depa-real/)

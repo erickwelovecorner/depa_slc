@@ -1,7 +1,6 @@
 # Zona de trabajo (isla en el living)
 
-Estado: **zona cerrada** (fase 1). Layout decidido.  
-Pendiente: cruzar con fotos y medidas del depa real (fase 3). Aquí la capa editorial es más fuerte: [objetos](../objetos.md).
+Estado: **zona cerrada** (fase 1). Layout **ya construido** en el depa real. Ver [depa real](../depa-real.md).
 
 Refs: [`refs/trabajo/01-collage.png`](../../refs/trabajo/01-collage.png)
 
@@ -32,7 +31,7 @@ Estilo: mismo loft curado. El trabajo se lee como otra pieza del living, al nive
 | Base | Madera clara o concreto | Piso |
 | Cubierta | Madera natural (clara o media) | Desktop grueso |
 | Estructura | Negro, cromo, o rojo (caballete) | Patas |
-| Teddy | Crudo / cream / off-white (pelo) | Sofá que da a la sala |
+| Teddy | Verde bosque, pelo/bouclé | Sofá que da a la sala (depa real; no crudo) |
 | Acento | Rojo (silla o patas), verde (mat, planta) | Una nota, no las dos fuertes |
 
 El teddy es el volumen stuffed claro. El escritorio no pelea: madera + pata delgada. Si hay rojo, es el mismo rojo de las sillas de cocina, no un rojo nuevo.
@@ -76,7 +75,7 @@ Reglas:
 | Lámpara | Akari / arco / piso | La misma, o task chica |
 | Acento | El que ya tenga la sala | Rojo o verde, uno |
 
-El teddy **no estaba en el collage de sala** (ahí el sofá era piel/terciopelo oscuro). Aquí se fija: el sofá del living es teddy. Sigue cumpliendo peso + perfil bajo; cambia el material (pelo claro en vez de piel negra). El contraste negro se mueve a patas, silla o mesa de centro.
+El teddy **en el depa real es verde bosque**, no crudo. Cumple peso + perfil bajo y además el acento verde de las refs de sala. El contraste negro sigue en patas, silla, lámpara y mesas.
 
 ## Sí / no (esta zona)
 

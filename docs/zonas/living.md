@@ -1,7 +1,6 @@
 # Living / sala
 
-Estado: **zona cerrada** (fase 1).  
-Pendiente: cruzar con fotos y medidas del depa real (fase 3). Capa editorial: [objetos](../objetos.md).
+Estado: **zona cerrada** (fase 1). Base real fotografiada; ver [depa real](../depa-real.md). Capa editorial: [objetos](../objetos.md).
 
 Refs: [`refs/living/01-collage.png`](../../refs/living/01-collage.png)
 
@@ -11,7 +10,7 @@ No es un living “decorado”. Es un **escenario de piezas**: sofá, silla, mes
 
 Estilo: **minimalismo curado + mid-century + loft urbano**. Cómodo, bajo, con contraste fuerte (blanco vs. negro/madera oscura) y una lámpara que actúa como escultura.
 
-**Decisión posterior (zona de trabajo):** el sofá del living es un **teddy** (pelo/bouclé, perfil bajo). Detrás, el escritorio flota como isla. Ver [trabajo](trabajo.md). El collage de esta zona sigue valiendo para atmósfera; el teddy sustituye al sofá de piel/terciopelo oscuro como pieza stuffed.
+**Decisión (depa real):** el sofá es un **teddy verde bosque**. Detrás, el escritorio ya flota como isla. Ver [trabajo](trabajo.md) y [depa real](../depa-real.md). El collage de esta zona sigue valiendo para atmósfera.
 
 ## Paleta
 
