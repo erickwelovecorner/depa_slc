@@ -14,12 +14,15 @@ Hilo de contexto: **refes**. Primero moodboard por zona; después el depa real.
 | Zona | Estado |
 |---|---|
 | [Living / sala](zonas/living.md) | Refs aterrizadas |
+| [Cocina / comedor](zonas/cocina.md) | Refs aterrizadas |
 | Resto | Pendiente de refs |
 
-## Lectura hasta ahora (solo living)
+## Lectura hasta ahora (living + cocina)
 
-Dirección preliminar — se confirma o se matiza con las demás zonas:
+Dirección que se confirma entre las dos zonas:
 
-**Minimalismo curado, mid-century y loft urbano.** Sobre blanco, piso claro, piezas bajas y pocas, contraste negro/madera, lámpara como escultura, audio a la vista.
+**Minimalismo curado, mid-century y loft urbano.** Sobre blanco, piso claro (madera o concreto), pocas piezas, contraste negro/madera/metal, lámpara como escultura, guardado a la vista (audio en sala, libros/loza en cocina).
 
-No cerrar el concepto global hasta cocina, recámara, baños, etc.
+Lo que aporta la cocina: mesa **redonda** como ancla, sillas desparejas, acero inox o gabinete negro, acento rojo o check. El comedor es la misma zona que la tarja.
+
+No cerrar el concepto global hasta recámara, baños, etc.

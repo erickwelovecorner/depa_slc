@@ -15,4 +15,5 @@ Este hilo y estos docs aterrizan **refs → concepto → aplicación en el depa 
 ## Estado
 
 - Living / sala: refs recibidas, estilo aterrizado.
+- Cocina / comedor: refs recibidas, estilo aterrizado.
 - Resto de zonas: pendiente.
