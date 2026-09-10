@@ -101,9 +101,18 @@ Cómo usarlo:
 
 Kallax 4 aquí **solo** si los LPs tienen que vivir en esta estación, en cubos. Entonces se acepta 1.47 m y muro vacío a propósito — y hay que resolver la TV de la otra recámara primero.
 
-Cocina: este Billy de 40 **no tapa una lavadora** (~60 cm). El plan de cocina se ve cuando lleguen fotos; no condiciona esta pared.
+**Un solo piso (un Billy, ~40 cm de alto).** Eso es el gesto de las refs. Dos Billy de 40 apilados = ~80 cm: otra vez le gana al teddy. No.
 
-Refs: [`flanco/`](../refs/depa-real/flanco/). La 04 (Kallax alto + tornamesa) sigue siendo el no.
+Dos Billy **a lo largo** (punta con punta) = 4.04 m. El muro es 3.5 m: no caben. En sala es **uno**.
+
+## Prueba cuando llegue el Billy
+
+Un módulo, dos sitios, **antes** de pedir el segundo:
+
+1. Sala, acostado, un piso, donde está el cubo.
+2. Cocina / lavadora, de pie (ahí sí vertical).
+
+Dónde gana, se queda. Si funciona en los dos y duele sacarlo de uno, **ahí** se pide el segundo — mismo 40×28×202, no un 80. El segundo no se apila sobre el primero en sala.
 
 Módem: abajo, detrás de la planta o detrás del teddy — no coronando el mueble.
 
@@ -122,10 +131,9 @@ Orden: restar → agrupar → (opcional) una compra.
 1. **Semana 1 — restar.** Todo lo que no sea las piezas de la tabla, fuera de la sala. Archivar el 80% de papel/vinyl.
 2. **Semana 2 — una estación.** Lo visible de revistas/libros/discos en un solo punto, stacks o crates. Desk otra vez vacío (teclado, mouse, una taza).
 3. **Semana 3 — una rara, si ya está.** Bowl de llaves, una foto con cinta, el player si se usa. No ir a comprar “rarezas”.
-4. **Semana 4 — una compra solo si hace falta** (por orden de impacto / se va en la mudanza):
-   - Sustituto del cubo: **Billy 40 acostado al piso** (2.02 m). Vinyl en crate al lado, no dentro.
-   - Tabla de madera encima, opcional.
-   - Nada más. El Kallax de la otra TV no se mueve.
+4. **Cuando llegue el Billy — probar, no comprar el segundo aún.**
+   - Sala acostado (un piso) vs cocina de pie.
+   - Segundo módulo solo si los dos sitios lo necesitan. Nunca dos pisos en sala.
 
 Prohibido en este plazo: alfombra persa, sillas icónicas, gabinetes de cocina, cama nueva, obra.
 
