@@ -74,7 +74,7 @@ El bowl de acero es el único **desorden permitido** (llaves, clip, USB). Un bow
 
 ## Cómo se aplica a las zonas ya cerradas
 
-- **Living:** hi-fi y revistas pueden vivir en credenza o tarima con ruedas, no en mueble de TV. El teddy y el Akari no se tocan.
+- **Living:** estación de medios en el flanco derecho del teddy, **baja y larga**. El cubo 2×2 actual no. El teddy no se toca.
 - **Trabajo:** el tablero y el carrito translúcido son de esta cara de la isla. El desktop sigue limpio: una cosa rara al lado, no encima del teclado.
 - **Cocina:** mesh y bowl; no locker ni moodboard sobre la tarja.
 - **Recámara:** crate o taburete ya escritos; no ruedas ni tablero editorial en la cama.

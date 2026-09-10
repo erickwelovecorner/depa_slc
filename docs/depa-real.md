@@ -9,7 +9,7 @@ Restricciones de esta casa (cierran cómo se aplican las refs):
 - Plazo **~1 mes**. Quitar primero; comprar solo si cambia el cuadro.
 - Todo lo visible tiene que **usarse** o verse muy bien. Si no aporta, sale.
 
-Fotos: [`living-01`](../refs/depa-real/living-01-desde-desk.jpg) · [`living-02`](../refs/depa-real/living-02-sala.jpg)
+Fotos: [`living-01`](../refs/depa-real/living-01-desde-desk.jpg) · [`living-02`](../refs/depa-real/living-02-sala.jpg) · [`living-03`](../refs/depa-real/living-03-flanco-teddy.png)
 
 ## Veredicto
 
@@ -49,10 +49,44 @@ Regla:
 
 1. **Una estación visible** para medios (no tres).
 2. Lo que se ve: stacks **bajos y alineados**, o 1–2 crates. Caben lo que quepa en esa estación. El resto se archiva (clóset, bajo cama, cajas).
-3. Sitio candidato: flanco de la isla **o** junto a las bancas de la TV — no las dos. No sobre las mesas de centro. No sobre el desk.
-4. Si hace falta vaso: **crates o una tarima/carrito barato con ruedas** (se van con la mudanza). No librero alto, no credenza nueva cara.
+3. Sitio: **flanco derecho del teddy** (hacia la terraza). Una estación. No también en la TV ni en el desk.
+4. El vaso **no es el cubo blanco actual**. Ver [flanco derecho](#flanco-derecho-del-teddy).
 
 Eso es la capa editorial en este depa: menos que en las refs, más agrupado.
+
+## Flanco derecho del teddy
+
+Foto: [`living-03`](../refs/depa-real/living-03-flanco-teddy.png)
+
+El cubo 2×2 (blanco, metal, más alto que el sofá) **sale**. Los libros, discos y el módem pueden quedarse en esta pared; el mueble no.
+
+Por qué falla:
+
+- Pasa la línea del teddy. En esta sala el horizonte es el respaldo; todo lo que lo rebase se lee “mueble de recámara / IKEA”.
+- Es un cuadrado contra un muro largo. El depa pide **bajo y corrido**, no celda.
+- El módem en la tapa lo convierte en rack de internet.
+- Mancuernas, peluche y tazones en fila terminan el look de “rincón de cosas”.
+
+Qué sí va en esta pared (línea baja, a la altura del sofá o menos):
+
+```
+[puerta terraza]  planta  |  estación baja (libros/discos)  |  módem escondido  |  tazones juntos
+                                                                    muro vacío →
+```
+
+Contenido visible: lo que quepa **en un solo tramo bajo**. El resto de libros/discos se archiva. Mancuernas fuera de la sala.
+
+Vaso (en este orden, de $0 a barato):
+
+1. **Quitar el cubo** y probar stacks bajos + 1–2 crates de vinyl contra el muro. El cubo va a clóset o se vende.
+2. Si se ve demasiado “pila en el piso”: **tabla de madera + 4 ruedas** o 2 crates grises (se van en la mudanza). Misma familia que las refs de objetos.
+3. Si ya hay una banca de madera de más (las de la TV): reciclarla aquí como línea baja. No comprar credenza.
+
+Módem: abajo, detrás de la planta o detrás del teddy — no coronando el mueble.
+
+Tazones: un rincón, no pista a lo largo del muro.
+
+Pared: sigue vacía. No compensar el cubo con un cuadro.
 
 ## Paredes
 
@@ -66,7 +100,7 @@ Orden: restar → agrupar → (opcional) una compra.
 2. **Semana 2 — una estación.** Lo visible de revistas/libros/discos en un solo punto, stacks o crates. Desk otra vez vacío (teclado, mouse, una taza).
 3. **Semana 3 — una rara, si ya está.** Bowl de llaves, una foto con cinta, el player si se usa. No ir a comprar “rarezas”.
 4. **Semana 4 — una compra solo si hace falta** (por orden de impacto / se va en la mudanza):
-   - Crates o carrito para el archivo visible.
+   - Sustituto bajo del cubo: crates o tabla + ruedas. **Esta sí cambia el cuadro.**
    - Farol de papel barato (si el techo lo permite y no hay que taladrar de más).
    - Nada más.
 
