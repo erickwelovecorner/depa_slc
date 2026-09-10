@@ -78,32 +78,32 @@ Qué sí va en esta pared (línea baja, a la altura del sofá o menos):
 
 Contenido visible: lo que quepa **en un solo tramo bajo**. El resto de libros/discos se archiva. Mancuernas fuera de la sala.
 
-Vaso (decisión):
+Vaso (decisión, corregida):
 
-**Gana el Kallax de 4, acostado, al piso, sin patas.** Es exactamente las refs 02/03/05: bajo, largo, a la altura del teddy o menos. El cubo actual es la misma familia usada mal (2×2 alto). En 1×4 se vuelve banca.
-
-- **Sin patas.** Las de Ikea lo suben y lo vuelven mueble de TV de catálogo. Al piso, como las refs.
-- **Opcional barato:** una tabla de madera encima (como 02/03) para que no se lea “Ikea blanco”. No es obligatorio el primer día.
-- **Módem dentro de un cubo**, no arriba. Vinyl en cubos (Kallax es el tamaño de LP). Libros de pie. Un cubo puede ir más vacío.
-- **No lo robes si dejas la otra recámara coja.** Si hoy es la base de la TV allá, primero resuelves esa TV (al piso, o las bancas de madera que ya hay en sala). Si no hay plan, el Kallax se queda y esta pared espera.
-
-Las otras dos ideas:
-
-1. **Sin mueble / stacks.** Las torres altas (ref 01) en *tu* loseta, con perro y módem, se leen improvisadas, no editoriales. Ese look pide duela, mucho aire y cero tazones. Si pruebas algo sin mueble: **un solo grupo bajo y horizontal**, no cinco torres. Sirve de test 2 días, no de solución. El vinyl y el módem quedan mal.
-2. **Billy acostado.** El 2.02 m es el lado largo de un Billy de pie. Las fotos no son eso: son Kallax de **un cubo de alto** (~42 cm). Un Billy 80 (el que tapa lavadora) de lado queda:
+El Billy es el **40×28×202** ([505.220.40](https://www.ikea.com/mx/es/p/billy-librero-blanco-50522040/)), no el de 80. De lado el alto queda **~40 cm**: mismo gesto que las fotos. El muro de esta pared mide **~3.5 m**.
 
 | | Largo | Alto | Fondo |
 |---|---|---|---|
-| Fotos / Kallax 4 al piso | 1.45 m | **~42 cm** | ~39 cm (cabe LP) |
-| Billy 80 de lado | 2.02 m | **~80 cm** | ~28 cm (el LP no cabe) |
+| Kallax 4 al piso | 1.47 m | ~42 cm | ~39 cm (cabe LP) |
+| Billy 40 de lado | 2.02 m | ~40 cm | ~28 cm (el LP no cabe) |
+| Muro | ~3.5 m | — | — |
 
-El largo gana; el alto y el fondo pierden. 80 cm es otra vez la pelea con el teddy. 28 cm es librero, no vinilo. Y 2.02 m en *esta* pared se come el muro vacío que te gusta; 1.45 m deja aire.
+En 3.5 m, 2.02 m deja ~1.5 m para planta + tazones + aire. 1.47 m puede volver a verse como “mueble corto en muro largo” (el problema del cubo, solo que bajo).
 
-(Un Billy de 40 cm de ancho, de lado, sí daría ~40 cm de alto. Ese no cubre una lavadora; no es el que pediste.)
+**Para esta pared: Billy 40 acostado, al piso.** No se toca el Kallax de la otra TV. Libros y revistas aquí. Vinyl **no** entra en el Billy (fondo 28 / interior 26 cm); 1–2 crates de discos al extremo, o se quedan en el Kallax de la recámara.
 
-Billy se queda en vertical para cocina.
+Cómo usarlo:
 
-Refs de esta decisión: [`flanco/`](../refs/depa-real/flanco/). La 04 (Kallax 2×2 + tornamesa arriba) es el error que ya tienes: alto + electrónica de corona. No copiar.
+- Al piso, sin patas. Apertura hacia la sala. Repisas = divisiones verticales.
+- El zócalo de 8 cm va a un extremo (hacia la planta o la esquina), no al centro.
+- No llenar todos los vanos. Módem en un hueco, no arriba.
+- Tabla de madera encima: opcional, misma lógica que las refs.
+
+Kallax 4 aquí **solo** si los LPs tienen que vivir en esta estación, en cubos. Entonces se acepta 1.47 m y muro vacío a propósito — y hay que resolver la TV de la otra recámara primero.
+
+Cocina: este Billy de 40 **no tapa una lavadora** (~60 cm). El plan de cocina se ve cuando lleguen fotos; no condiciona esta pared.
+
+Refs: [`flanco/`](../refs/depa-real/flanco/). La 04 (Kallax alto + tornamesa) sigue siendo el no.
 
 Módem: abajo, detrás de la planta o detrás del teddy — no coronando el mueble.
 
