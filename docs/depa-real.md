@@ -90,7 +90,18 @@ Vaso (decisión):
 Las otras dos ideas:
 
 1. **Sin mueble / stacks.** Las torres altas (ref 01) en *tu* loseta, con perro y módem, se leen improvisadas, no editoriales. Ese look pide duela, mucho aire y cero tazones. Si pruebas algo sin mueble: **un solo grupo bajo y horizontal**, no cinco torres. Sirve de test 2 días, no de solución. El vinyl y el módem quedan mal.
-2. **Billy acostado.** No. De lado mide ~80 cm de alto: otra vez más alto que el teddy. Es librero, no banca; el vinyl no cabe bien. Ya lo pediste para **tapar la lavadora en cocina** — ese problema es real. No lo desvíes a la sala.
+2. **Billy acostado.** El 2.02 m es el lado largo de un Billy de pie. Las fotos no son eso: son Kallax de **un cubo de alto** (~42 cm). Un Billy 80 (el que tapa lavadora) de lado queda:
+
+| | Largo | Alto | Fondo |
+|---|---|---|---|
+| Fotos / Kallax 4 al piso | 1.45 m | **~42 cm** | ~39 cm (cabe LP) |
+| Billy 80 de lado | 2.02 m | **~80 cm** | ~28 cm (el LP no cabe) |
+
+El largo gana; el alto y el fondo pierden. 80 cm es otra vez la pelea con el teddy. 28 cm es librero, no vinilo. Y 2.02 m en *esta* pared se come el muro vacío que te gusta; 1.45 m deja aire.
+
+(Un Billy de 40 cm de ancho, de lado, sí daría ~40 cm de alto. Ese no cubre una lavadora; no es el que pediste.)
+
+Billy se queda en vertical para cocina.
 
 Refs de esta decisión: [`flanco/`](../refs/depa-real/flanco/). La 04 (Kallax 2×2 + tornamesa arriba) es el error que ya tienes: alto + electrónica de corona. No copiar.
 
