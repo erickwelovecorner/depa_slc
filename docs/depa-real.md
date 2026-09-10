@@ -78,11 +78,21 @@ Qué sí va en esta pared (línea baja, a la altura del sofá o menos):
 
 Contenido visible: lo que quepa **en un solo tramo bajo**. El resto de libros/discos se archiva. Mancuernas fuera de la sala.
 
-Vaso (en este orden, de $0 a barato):
+Vaso (decisión):
 
-1. **Quitar el cubo** y probar stacks bajos + 1–2 crates de vinyl contra el muro. El cubo va a clóset o se vende.
-2. Si se ve demasiado “pila en el piso”: **tabla de madera + 4 ruedas** o 2 crates grises (se van en la mudanza). Misma familia que las refs de objetos.
-3. Si ya hay una banca de madera de más (las de la TV): reciclarla aquí como línea baja. No comprar credenza.
+**Gana el Kallax de 4, acostado, al piso, sin patas.** Es exactamente las refs 02/03/05: bajo, largo, a la altura del teddy o menos. El cubo actual es la misma familia usada mal (2×2 alto). En 1×4 se vuelve banca.
+
+- **Sin patas.** Las de Ikea lo suben y lo vuelven mueble de TV de catálogo. Al piso, como las refs.
+- **Opcional barato:** una tabla de madera encima (como 02/03) para que no se lea “Ikea blanco”. No es obligatorio el primer día.
+- **Módem dentro de un cubo**, no arriba. Vinyl en cubos (Kallax es el tamaño de LP). Libros de pie. Un cubo puede ir más vacío.
+- **No lo robes si dejas la otra recámara coja.** Si hoy es la base de la TV allá, primero resuelves esa TV (al piso, o las bancas de madera que ya hay en sala). Si no hay plan, el Kallax se queda y esta pared espera.
+
+Las otras dos ideas:
+
+1. **Sin mueble / stacks.** Las torres altas (ref 01) en *tu* loseta, con perro y módem, se leen improvisadas, no editoriales. Ese look pide duela, mucho aire y cero tazones. Si pruebas algo sin mueble: **un solo grupo bajo y horizontal**, no cinco torres. Sirve de test 2 días, no de solución. El vinyl y el módem quedan mal.
+2. **Billy acostado.** No. Es librero, no banca; el vinyl no cabe bien; acostado se ve de recorte. Ya lo pediste para **tapar la lavadora en cocina** — ese problema es real. No lo desvíes a la sala. En vertical en cocina, cuando veamos esa zona.
+
+Refs de esta decisión: [`flanco/`](../refs/depa-real/flanco/). La 04 (Kallax 2×2 + tornamesa arriba) es el error que ya tienes: alto + electrónica de corona. No copiar.
 
 Módem: abajo, detrás de la planta o detrás del teddy — no coronando el mueble.
 
@@ -102,9 +112,9 @@ Orden: restar → agrupar → (opcional) una compra.
 2. **Semana 2 — una estación.** Lo visible de revistas/libros/discos en un solo punto, stacks o crates. Desk otra vez vacío (teclado, mouse, una taza).
 3. **Semana 3 — una rara, si ya está.** Bowl de llaves, una foto con cinta, el player si se usa. No ir a comprar “rarezas”.
 4. **Semana 4 — una compra solo si hace falta** (por orden de impacto / se va en la mudanza):
-   - Sustituto bajo del cubo: crates o tabla + ruedas. **Esta sí cambia el cuadro.**
+   - Sustituto del cubo: **Kallax 4 horizontal al piso** (si se puede mover sin romper la otra TV). Sin patas. Tabla de madera encima, opcional.
    - Farol de papel barato (si el techo lo permite y no hay que taladrar de más).
-   - Nada más.
+   - Nada más. Billy se queda para cocina.
 
 Prohibido en este plazo: alfombra persa, sillas icónicas, gabinetes de cocina, cama nueva, obra.
 
