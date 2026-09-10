@@ -90,7 +90,7 @@ Vaso (decisión):
 Las otras dos ideas:
 
 1. **Sin mueble / stacks.** Las torres altas (ref 01) en *tu* loseta, con perro y módem, se leen improvisadas, no editoriales. Ese look pide duela, mucho aire y cero tazones. Si pruebas algo sin mueble: **un solo grupo bajo y horizontal**, no cinco torres. Sirve de test 2 días, no de solución. El vinyl y el módem quedan mal.
-2. **Billy acostado.** No. Es librero, no banca; el vinyl no cabe bien; acostado se ve de recorte. Ya lo pediste para **tapar la lavadora en cocina** — ese problema es real. No lo desvíes a la sala. En vertical en cocina, cuando veamos esa zona.
+2. **Billy acostado.** No. De lado mide ~80 cm de alto: otra vez más alto que el teddy. Es librero, no banca; el vinyl no cabe bien. Ya lo pediste para **tapar la lavadora en cocina** — ese problema es real. No lo desvíes a la sala.
 
 Refs de esta decisión: [`flanco/`](../refs/depa-real/flanco/). La 04 (Kallax 2×2 + tornamesa arriba) es el error que ya tienes: alto + electrónica de corona. No copiar.
 
