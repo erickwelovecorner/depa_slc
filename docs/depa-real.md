@@ -33,6 +33,8 @@ Las refs son de lofts más grandes. En un depa chico, copiar la cantidad de obje
 
 No comprar sofá, desk, silla de diseño, mueble de TV, mesa de centro nueva.
 
+**Sale:** el cubo 2×2 blanco del flanco derecho. Ver abajo.
+
 ## Lo que no es impedimento
 
 - **Piso de loseta, no duela.** El sobre claro cumple. No fingir madera.
