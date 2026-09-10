@@ -123,9 +123,9 @@ Orden: restar → agrupar → (opcional) una compra.
 2. **Semana 2 — una estación.** Lo visible de revistas/libros/discos en un solo punto, stacks o crates. Desk otra vez vacío (teclado, mouse, una taza).
 3. **Semana 3 — una rara, si ya está.** Bowl de llaves, una foto con cinta, el player si se usa. No ir a comprar “rarezas”.
 4. **Semana 4 — una compra solo si hace falta** (por orden de impacto / se va en la mudanza):
-   - Sustituto del cubo: **Kallax 4 horizontal al piso** (si se puede mover sin romper la otra TV). Sin patas. Tabla de madera encima, opcional.
-   - Farol de papel barato (si el techo lo permite y no hay que taladrar de más).
-   - Nada más. Billy se queda para cocina.
+   - Sustituto del cubo: **Billy 40 acostado al piso** (2.02 m). Vinyl en crate al lado, no dentro.
+   - Tabla de madera encima, opcional.
+   - Nada más. El Kallax de la otra TV no se mueve.
 
 Prohibido en este plazo: alfombra persa, sillas icónicas, gabinetes de cocina, cama nueva, obra.
 
