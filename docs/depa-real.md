@@ -9,7 +9,7 @@ Restricciones de esta casa (cierran cómo se aplican las refs):
 - Plazo **~1 mes**. Quitar primero; comprar solo si cambia el cuadro.
 - Todo lo visible tiene que **usarse** o verse muy bien. Si no aporta, sale.
 
-Fotos: [`living-01`](../refs/depa-real/living-01-desde-desk.jpg) · [`living-02`](../refs/depa-real/living-02-sala.jpg) · [`living-03`](../refs/depa-real/living-03-flanco-teddy.png)
+Fotos: [`living-01`](../refs/depa-real/living-01-desde-desk.jpg) · [`living-02`](../refs/depa-real/living-02-sala.jpg) · [`living-03`](../refs/depa-real/living-03-flanco-teddy.png) · [`visitas-01`](../refs/depa-real/visitas-01-mueble.jpg)
 
 ## Veredicto
 
@@ -144,3 +144,5 @@ Misma lógica: **ajustar lo que hay**, no reconstruir. Quitar lo que pelea con e
 ## Cómo se va a usar
 
 Las refs de zona siguen siendo el norte visual. Este doc manda en **presupuesto, tamaño y plazo**. Si una ref pide un ícono caro o un loft vacío, se ignora.
+
+El [cuarto de visitas](zonas/visitas.md) no entra al estilo. Es archivo de la renta.

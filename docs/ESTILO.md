@@ -31,7 +31,8 @@ Palabras: **mínimo · cómodo · editorial · móvil · una rareza**.
 | [Zona de trabajo](zonas/trabajo.md) | Cerrada (layout decidido) | Escritorio isla detrás del teddy |
 | [Recámara](zonas/recamara.md) | Cerrada | Plataforma baja + Akari |
 | [Objetos](objetos.md) | Cerrada (capa de casa) | Pocas cosas, ruedas, una rara |
-| [Depa real](depa-real.md) | Fase 3: living/trabajo | Base ya construida; quitar y agrupar |
+| [Depa real](depa-real.md) | Fase 3 | Living/trabajo + visitas archivo |
+| [Visitas / archivo](zonas/visitas.md) | Fuera de concepto | Mueble de renta; utilidad |
 | Baño, terraza | Después | — |
 
 ## Lenguaje compartido
