@@ -19,4 +19,5 @@ Este hilo y estos docs aterrizan **refs → concepto → aplicación en el depa 
 - Concepto de casa: cerrado (mínimo + cómodo + editorial).
 - Living, cocina, trabajo, recámara, objetos: cerrados (fase 1).
 - Depa real: base living/trabajo fotografiada. Quitar y agrupar medios; no comprar el living de nuevo.
+- Cuarto de visitas: archivo de renta, fuera de concepto.
 - Baño y terraza: después.
