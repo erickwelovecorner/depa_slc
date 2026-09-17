@@ -99,8 +99,6 @@ Cómo usarlo:
 - No llenar todos los vanos. Módem en un hueco, no arriba.
 - Tabla de madera encima: opcional, misma lógica que las refs.
 
-Kallax 4 aquí **solo** si los LPs tienen que vivir en esta estación, en cubos. Entonces se acepta 1.47 m y muro vacío a propósito — y hay que resolver la TV de la otra recámara primero.
-
 **Un solo piso (un Billy, ~40 cm de alto).** Eso es el gesto de las refs. Dos Billy de 40 apilados = ~80 cm: otra vez le gana al teddy. No.
 
 Dos Billy **a lo largo** (punta con punta) = 4.04 m. El muro es 3.5 m: no caben. En sala es **uno**.
