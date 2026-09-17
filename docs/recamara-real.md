@@ -40,10 +40,34 @@ Si mandas refs: de **piedra/carbón**, no de las dos ideas extremas.
 ## Quitar / guardar (sin comprar)
 
 - **Maleta naranja:** no es buró. Visitas, clóset o bajo cama. Ese lado puede quedar vacío (un solo taburete, como las refs) o un crate bajo.
-- **Kallax:** cubos quietos. Libros en un vano, el resto vacío o un objeto. Juegos (Monopoly) y florero a visitas. Trapo de encima, fuera. Bocinas si se usan.
+- **Kallax — cubos (4 vanos, de izquierda a derecha, ejemplo):**
+
+  | Vano | Qué |
+  |---|---|
+  | 1 | Libros, de pie o en un stack bajo |
+  | 2 | Buffer / amp de las bocinas (cable escondido atrás) |
+  | 3 | Vacío, o un vano de vinyl si no cabe en sala |
+  | 4 | Vacío |
+
+  Tapa: TV + bocinas. Nada más (ni trapo ni florero).
+  **Sala no.** Monopoly, Maratón y el florero van a [visitas](zonas/visitas.md). La sala es editorial, no trastero de juegos.
+
 - **Espejo de la renta:** se queda; la puerta lo tapa. No se busca otro muro.
 - Patio: no ahora.
 
-## Lámparas
+## Cómo buscar refs (para cerrar la colcha)
+
+Busca **una cama**, no un cuarto entero. Filtro:
+
+- Colcha **stone / taupe / charcoal / greige linen**, arrugada, sin rombos, sin hotel.
+- Habitación **clara**: muro blanco, mucha ventana. No cueva, no navy, no beige-on-beige.
+- Cabecera gris o tela, o plataforma baja. Lámparas negras chicas ok.
+- Poco a los lados (un taburete, un tapete de yute).
+
+Palabras: `charcoal linen duvet white bedroom`, `stone washed coverlet king`, `greige rumpled bedding natural light`, `colcha lino gris piedra recámara`.
+
+Evita: white hotel bedding, black velvet, navy quilt, 6 cojines.
+
+Manda 4–6 fotos de **solo la cama**. Con eso cerramos el textil.
 
 Se quedan. Ya son el gesto negro chico. No se usa mucho: da igual, no estorban. Un Akari sobre la king no es obligatorio en 6–12 meses (taladro, gasto). La luz del cuarto ya entra por la ventana.

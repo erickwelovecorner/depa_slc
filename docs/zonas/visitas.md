@@ -35,6 +35,8 @@ CUBO DERECHO
 
 CAJAS PLÁSTICAS
   una columna, tapas, pegadas a la esquina
+
+Juegos de mesa (Monopoly, Maratón): aquí, en un entrepaño o caja. No en sala ni en el Kallax de recámara.
 ```
 
 ## Reglas
