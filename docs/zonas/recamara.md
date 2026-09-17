@@ -1,7 +1,6 @@
 # Recámara
 
-Estado: **zona cerrada** (fase 1).  
-Pendiente: cruzar con fotos y medidas del depa real (fase 3). Capa editorial baja: [objetos](../objetos.md). Sin moodboard ni ruedas en la cama.
+Estado: **zona cerrada** (fase 1). Cruce con el depa: [recámara real](../recamara-real.md). Capa editorial baja. Sin moodboard ni ruedas en la cama.
 
 Refs: [`refs/recamara/01-collage.png`](../../refs/recamara/01-collage.png)
 
@@ -94,10 +93,9 @@ Lo que no se copia: teddy, sillas rojas, isla de trabajo, hi-fi.
 
 ## Cómo se va a usar esto después
 
-Cuando lleguen fotos del depa real, cruzar:
+Cuando lleguen fotos del depa real, cruzar: ver [recámara real](../recamara-real.md).
 
-1. Si la cama puede bajar a plataforma (altura vs. clóset/ventana).
-2. Si el techo permite un globo centrado o solo un velador.
-3. Un buró objeto vs. dos mesitas que ya existan.
-4. Ropa de cama: blanco + un carbón, o blanco + check — no los dos fuertes.
-5. Guardado: cómoda baja vs. clóset; no sumar muebles altos.
+1. Colcha: piedra/carbón, no navy ni blanco ni negro (perro + luz).
+2. Kallax de TV se queda en este cuarto.
+3. Maleta fuera del buró.
+4. No comprar cabecera, lámparas ni tapete.

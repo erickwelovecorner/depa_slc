@@ -12,12 +12,11 @@ Este hilo y estos docs aterrizan **refs → concepto → aplicación en el depa 
 - Zonas principales **cerradas**. No reabrir living, cocina, trabajo ni recámara salvo corrección explícita.
 - Baño y terraza: todavía no.
 - Al recomendar para el depa real, partir de `docs/depa-real.md` (presupuesto, tamaño, plazo). Las refs son el norte visual; este depa manda en lo que se compra y lo que se muestra.
-- Fase 3: living/trabajo documentados. Cuarto de visitas = archivo (mueble de renta, no se estiliza). Cocina y recámara cuando lleguen fotos.
+- Fase 3: living/trabajo documentados. Recámara principal fotografiada (gasto: colcha piedra/carbón). Visitas = archivo. Cocina cuando lleguen fotos.
 
 ## Estado
 
 - Concepto de casa: cerrado (mínimo + cómodo + editorial).
 - Living, cocina, trabajo, recámara, objetos: cerrados (fase 1).
-- Depa real: base living/trabajo fotografiada. Quitar y agrupar medios; no comprar el living de nuevo.
-- Cuarto de visitas: archivo de renta, fuera de concepto.
-- Baño y terraza: después.
+- Depa real: living/trabajo + recámara principal. Visitas = archivo.
+- Baño, terraza, cocina: después.

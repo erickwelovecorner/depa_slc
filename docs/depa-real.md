@@ -1,6 +1,6 @@
 # Depa real — fase 3
 
-Estado: **base de living/trabajo documentada**. Cocina y recámara: fotos después. Baño y terraza: aún no.
+Estado: **base living/trabajo + recámara principal documentadas**. Cocina: fotos después. Baño y terraza: aún no. Patio de recámara: después.
 
 Restricciones de esta casa (cierran cómo se aplican las refs):
 
@@ -41,7 +41,7 @@ No comprar sofá, desk, silla de diseño, mueble de TV, mesa de centro nueva.
 - **Plafoneras redondas.** No son Akari. Se vive con ellas; un farol de papel es la única compra de luz que valdría, y solo si es barato y se lleva al irse.
 - **Silla negra de oficina.** Invisible a escala casa. No cambiar.
 - **Dos mesas chicas en vez de una ancha.** Ok.
-- **Cocina / recámara “de otra forma”.** Se ajustan con quitar y agrupar, no con remodelar. Fotos después.
+- **Cocina “de otra forma”.** Se ajusta con quitar y agrupar. Fotos después.
 
 ## El único problema real: el archivo
 
@@ -90,7 +90,7 @@ El Billy es el **40×28×202** ([505.220.40](https://www.ikea.com/mx/es/p/billy-
 
 En 3.5 m, 2.02 m deja ~1.5 m para planta + tazones + aire. 1.47 m puede volver a verse como “mueble corto en muro largo” (el problema del cubo, solo que bajo).
 
-**Para esta pared: Billy 40 acostado, al piso.** No se toca el Kallax de la otra TV. Libros y revistas aquí. Vinyl **no** entra en el Billy (fondo 28 / interior 26 cm); 1–2 crates de discos al extremo, o se quedan en el Kallax de la recámara.
+**Para esta pared: Billy 40 acostado, al piso.** El Kallax se queda en la [recámara principal](recamara-real.md) como mueble de TV. Libros y revistas en el Billy. Vinyl **no** entra en el Billy (fondo 28 / interior 26 cm); 1–2 crates de discos al extremo.
 
 Cómo usarlo:
 
@@ -137,9 +137,11 @@ Orden: restar → agrupar → (opcional) una compra.
 
 Prohibido en este plazo: alfombra persa, sillas icónicas, gabinetes de cocina, cama nueva, obra.
 
-## Cocina y recámara (cuando lleguen fotos)
+## Cocina (cuando lleguen fotos)
 
-Misma lógica: **ajustar lo que hay**, no reconstruir. Quitar lo que pelea con el concepto. Comprar solo si un objeto (colgante, crate de buró, check) cambia el cuarto y se puede llevar.
+Misma lógica: **ajustar lo que hay**, no reconstruir.
+
+Recámara principal: [recámara real](recamara-real.md). Visitas: [archivo](zonas/visitas.md).
 
 ## Cómo se va a usar
 

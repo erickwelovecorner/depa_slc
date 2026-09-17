@@ -30,6 +30,7 @@ Palabras: **mínimo · cómodo · editorial · móvil · una rareza**.
 | [Cocina / comedor](zonas/cocina.md) | Cerrada | Mesa redonda + colgante |
 | [Zona de trabajo](zonas/trabajo.md) | Cerrada (layout decidido) | Escritorio isla detrás del teddy |
 | [Recámara](zonas/recamara.md) | Cerrada | Plataforma baja + Akari |
+| [Recámara real](recamara-real.md) | Fase 3 | Luz + colcha piedra/carbón |
 | [Objetos](objetos.md) | Cerrada (capa de casa) | Pocas cosas, ruedas, una rara |
 | [Depa real](depa-real.md) | Fase 3 | Living/trabajo + visitas archivo |
 | [Visitas / archivo](zonas/visitas.md) | Fuera de concepto | Mueble de renta; utilidad |
