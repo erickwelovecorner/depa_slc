@@ -10,17 +10,15 @@ Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con B
 - Gabinetes gris oscuro, refri negro, cubierta de madera. Taller, no shaker.
 - Carrito con ruedas al lado del refri: capa editorial. Tazones de perro abajo, ok.
 
-## Lavadora / Billy de pie
+## Lavadora: atrás. Gabinete de arriba: fuera
 
-**No pone el Billy en cocina, ni alineado.** La foto sin mueble ([`01`](../refs/depa-real/cocina/01-sin-billy.jpg)) se ve **mejor**.
+**La máquina se queda donde está**, recesada. Traerla al filo de la columna la mete al paso (mesa → ventana) y la hace más visible desde el comedor. Ahora es un sliver; adelantada es un electrodoméstico en el cuarto.
 
-La mesa redonda ya es el ancla. La lavadora es un sliver plata al fondo; no gana el cuadro. Un Billy 40, aunque empate la columna:
+**El gabinete alto de dos puertas, sí.** Es el ruido: un cajón gris que no empata la columna ni la línea de cocina. Cuelga. Se lee recorte. Preferible el muro con tubos y tablero (gris, quieto) que esa caja.
 
-- No tapa caños ni tablero (están en el muro de la máquina).
-- Mete una franja blanca Ikea contra gabinetes grises: parte el bloque oscuro.
-- Vanos abiertos al comedor = detergente o huecos. Las dos se ven peor que la máquina.
+Si es de la renta: se desenrosca, se guarda en visitas, se vuelve a poner al irse. No se tira.
 
-Alinear el gabinete de la renta es trabajo para un 20% menos de plata a la vista. No vale. No hay segundo módulo.
+Después de quitarlo: muro + lavadora atrás + [llaves](#llaves-lo-que-sí-molesta). Nada en ese hueco (ni estante, ni planta colgada). El lienzo deja de hacer falta: ya no hay de dónde colgarlo con sentido. Solo volante gris y mangueras.
 
 ## Llaves (lo que sí molesta)
 
@@ -30,6 +28,6 @@ Orden barato:
 
 1. **Manija naranja → cromo o gris** (ferretería, la misma llave). Eso es el 70% del ruido. No pintes la válvula; cambia el volante.
 2. **Mangueras cortas y pegadas al muro** (abrazaderas). Menos spaghetti blanco.
-3. Si aún se ven: **lienzo gris** (el de los gabinetes) colgado del bajo de los muebles altos hasta la tapa de la lavadora — barra de tensión o ganchos Command. Se levanta para las llaves. El tablero eléctrico **no** se encierra fijo; la tela se aparta.
+3. Lienzo: **ya no.** Sin ese gabinete no hay de dónde colgarlo bien. Con volante gris alcanza.
 
 No: Billy, cajón de obra, pintar el tablero, segunda cortina de ducha barata con flores.
