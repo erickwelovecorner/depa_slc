@@ -1,6 +1,6 @@
 # Cocina real
 
-Estado: fotografiada. El Billy de pie es **opción B** (segundo módulo). El primero se queda en sala, muro largo. Ver [depa real](depa-real.md).
+Estado: fotografiada. **Sin Billy.** El único módulo se queda en el muro largo de sala. Ver [depa real](depa-real.md).
 
 Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con Billy`](../refs/depa-real/cocina/02-con-billy.jpg) · [`03 lavadora`](../refs/depa-real/cocina/03-lavadora-detalle.jpg)
 
