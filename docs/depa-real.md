@@ -132,15 +132,13 @@ Orden: restar → agrupar → (opcional) una compra.
 1. **Semana 1 — restar.** Todo lo que no sea las piezas de la tabla, fuera de la sala. Archivar el 80% de papel/vinyl.
 2. **Semana 2 — una estación.** Lo visible de revistas/libros/discos en un solo punto, stacks o crates. Desk otra vez vacío (teclado, mouse, una taza).
 3. **Semana 3 — una rara, si ya está.** Bowl de llaves, una foto con cinta, el player si se usa. No ir a comprar “rarezas”.
-4. **Cuando llegue el Billy — probar, no comprar el segundo aún.**
-   - Sala acostado (un piso) vs cocina de pie.
-   - Segundo módulo solo si los dos sitios lo necesitan. Nunca dos pisos en sala.
+4. **Billy:** se queda en el muro largo de sala. Segundo módulo (cocina de pie) solo si la lavadora desde la mesa sigue molestando. Nunca dos pisos en sala.
 
 Prohibido en este plazo: alfombra persa, sillas icónicas, gabinetes de cocina, cama nueva, obra.
 
-## Cocina (cuando lleguen fotos)
+## Cocina
 
-Misma lógica: **ajustar lo que hay**, no reconstruir.
+Ya hay fotos. Ver [cocina real](cocina-real.md). Mesa redonda ya está. Billy de pie = segundo módulo, no el primero.
 
 Recámara principal: [recámara real](recamara-real.md). Visitas: [archivo](zonas/visitas.md).
 
