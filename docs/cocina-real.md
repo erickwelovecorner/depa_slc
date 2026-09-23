@@ -22,4 +22,14 @@ La mesa redonda ya es el ancla. La lavadora es un sliver plata al fondo; no gana
 
 Alinear el gabinete de la renta es trabajo para un 20% menos de plata a la vista. No vale. No hay segundo módulo.
 
-Si la lavadora desde la mesa sigue molestando: se convive. No cortina, no armario extra, 6–12 meses.
+## Llaves (lo que sí molesta)
+
+No es la lavadora. Es el **naranja** de la manija y las dos llaves sueltas sobre la máquina. Se usa poco (abrir/cerrar agua); se puede tapar o apagar de color.
+
+Orden barato:
+
+1. **Manija naranja → cromo o gris** (ferretería, la misma llave). Eso es el 70% del ruido. No pintes la válvula; cambia el volante.
+2. **Mangueras cortas y pegadas al muro** (abrazaderas). Menos spaghetti blanco.
+3. Si aún se ven: **lienzo gris** (el de los gabinetes) colgado del bajo de los muebles altos hasta la tapa de la lavadora — barra de tensión o ganchos Command. Se levanta para las llaves. El tablero eléctrico **no** se encierra fijo; la tela se aparta.
+
+No: Billy, cajón de obra, pintar el tablero, segunda cortina de ducha barata con flores.
