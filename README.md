@@ -12,6 +12,7 @@ Contexto de diseño del departamento. Zonas principales cerradas. Fase 3: el dep
 - [Zona de trabajo](docs/zonas/trabajo.md)
 - [Recámara](docs/zonas/recamara.md)
 - [Recámara real](docs/recamara-real.md)
+- [Cocina real](docs/cocina-real.md)
 - [Visitas / archivo](docs/zonas/visitas.md)
 
 ## Refs

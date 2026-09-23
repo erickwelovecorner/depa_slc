@@ -1,6 +1,6 @@
 # Depa real — fase 3
 
-Estado: **base living/trabajo + recámara principal documentadas**. Cocina: fotos después. Baño y terraza: aún no. Patio de recámara: después.
+Estado: **living, recámara y cocina documentados**. Baño y terraza: aún no. Patio de recámara: después.
 
 Restricciones de esta casa (cierran cómo se aplican las refs):
 
@@ -103,14 +103,17 @@ Cómo usarlo:
 
 Dos Billy **a lo largo** (punta con punta) = 4.04 m. El muro es 3.5 m: no caben. En sala es **uno**.
 
-## Prueba cuando llegue el Billy
+## Prueba del Billy (hecha)
 
-Un módulo, dos sitios, **antes** de pedir el segundo:
+Fotos: [`muro largo`](../refs/depa-real/billy/01-sala-muro-largo.jpg) · [`junto al sillón`](../refs/depa-real/billy/02-sala-junto-sillon.jpg) · [`frente`](../refs/depa-real/billy/03-muro-largo-frente.jpg) · cocina en [cocina real](cocina-real.md).
 
-1. Sala, acostado, un piso, donde está el cubo.
-2. Cocina / lavadora, de pie (ahí sí vertical).
+**Gana: sala, acostado, muro largo** (donde estaba el cubo). Un piso, planta a la terraza, muro vacío arriba. Eso es la línea de las refs.
 
-Dónde gana, se queda. Si funciona en los dos y duele sacarlo de uno, **ahí** se pide el segundo — mismo 40×28×202, no un 80. El segundo no se apila sobre el primero en sala.
+**No: pegado al sillón / muro de la TV.** Ahí ya están las bancas de madera, vinyl y bocinas. El Billy duplica estación, llena la cara del sofá y mata el cascarón de esa pared.
+
+**Cocina de pie:** pantalla desde la mesa (se deja de ver la lavadora de lado). **No tapa caños ni el tablero**: están en el muro de la máquina, el Billy queda a la izquierda. Se ve recorte hasta que el gabinete alto gris se alinee con la columna. Vale como **segundo** módulo, no como destino del único.
+
+El único Billy se queda en el muro largo. Segundo 40×28×202 solo si duele la lavadora a la vista desde el comedor; entonces de pie, a la columna, vanos llenos. No apilar en sala.
 
 Módem: abajo, detrás de la planta o detrás del teddy — no coronando el mueble.
 
