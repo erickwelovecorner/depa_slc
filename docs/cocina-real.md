@@ -2,13 +2,13 @@
 
 Estado: fotografiada. **Sin Billy.** El único módulo se queda en el muro largo de sala. Ver [depa real](depa-real.md).
 
-Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con Billy`](../refs/depa-real/cocina/02-con-billy.jpg) · [`03 lavadora`](../refs/depa-real/cocina/03-lavadora-detalle.jpg)
+Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con Billy`](../refs/depa-real/cocina/02-con-billy.jpg) · [`03 lavadora`](../refs/depa-real/cocina/03-lavadora-detalle.jpg) · [`04 sin carrito`](../refs/depa-real/cocina/04-sin-carrito-desde-desk.jpg) · [`05 con carrito`](../refs/depa-real/cocina/05-con-carrito-desde-desk.jpg)
 
 ## Qué ya está bien
 
 - Mesa **redonda blanca** + sillas desparejas (negra, transparentes). Eso es el ancla de las refs.
 - Gabinetes gris oscuro, refri negro, cubierta de madera. Taller, no shaker.
-- Carrito con ruedas al lado del refri: capa editorial. Tazones de perro abajo, ok.
+- Carrito con ruedas al lado del refri: **sale de esa pared.** Ver abajo.
 
 ## Lavadora: atrás. Gabinete de arriba: fuera
 
@@ -31,3 +31,11 @@ Orden barato:
 3. Lienzo: **ya no.** Sin ese gabinete no hay de dónde colgarlo bien. Con volante gris alcanza.
 
 No: Billy, cajón de obra, pintar el tablero, segunda cortina de ducha barata con flores.
+
+## Carrito al lado del refri
+
+**Fuera de esa pared.** Desde el escritorio el blanco no es genérico: es el aire entre cocina e isla. Rellenarlo es lo que se lee improvisado. El mini-split rojo ya ocupa el muro; el carrito pelea con él y con el desk.
+
+La cafetera va a la cubierta de cocina (ya hay madera). Tazones, al piso junto al refri, un rincón. El carrito, a visitas o se usa vacío en otro lado, no aquí.
+
+Si se quedara sería estación de café: cafetera + un bote, nada de lata roja ni galletas a la vista. Aun así, la foto sin él gana. No se deja para “llenar el fondo de la oficina”.
