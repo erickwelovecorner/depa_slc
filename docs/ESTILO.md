@@ -28,7 +28,7 @@ Palabras: **mínimo · cómodo · editorial · móvil · una rareza**.
 |---|---|---|
 | [Living / sala](zonas/living.md) | Cerrada | Teddy bajo + escena de piezas |
 | [Cocina / comedor](zonas/cocina.md) | Cerrada | Mesa redonda + colgante |
-| [Cocina real](cocina-real.md) | Fase 3 | Mesa ya está; Billy de pie = 2º módulo |
+| [Cocina real](cocina-real.md) | Fase 3 | Mesa redonda; sin Billy |
 | [Zona de trabajo](zonas/trabajo.md) | Cerrada (layout decidido) | Escritorio isla detrás del teddy |
 | [Recámara](zonas/recamara.md) | Cerrada | Plataforma baja + Akari |
 | [Recámara real](recamara-real.md) | Fase 3 | Luz + colcha piedra/carbón |

@@ -12,10 +12,14 @@ Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con B
 
 ## Lavadora / Billy de pie
 
-El Billy 40 **al lado** de la lavadora no tapa caños ni el tablero eléctrico: esos están en el muro de la máquina. Solo **pantalla desde el comedor**: deja de verse la plata de lado.
+**No pone el Billy en cocina, ni alineado.** La foto sin mueble ([`01`](../refs/depa-real/cocina/01-sin-billy.jpg)) se ve **mejor**.
 
-Hoy se lee improvisado porque el gabinete alto gris choca (el Billy no llega, queda un hueco). Si se corre o se quita ese gabinete y el Billy **empata la columna**, deja de parecer recorte.
+La mesa redonda ya es el ancla. La lavadora es un sliver plata al fondo; no gana el cuadro. Un Billy 40, aunque empate la columna:
 
-Aun alineado: no cierra la cocina del todo. 40 cm es una franja, no un muro. Vale como segundo módulo, lleno (loza, seco, no vanos vacíos). No vale desmontar gabinetes de la renta si no hay segundo Billy.
+- No tapa caños ni tablero (están en el muro de la máquina).
+- Mete una franja blanca Ikea contra gabinetes grises: parte el bloque oscuro.
+- Vanos abiertos al comedor = detergente o huecos. Las dos se ven peor que la máquina.
 
-Caños y tablero se quedan a la vista desde la tarja. No se resuelven con este mueble. No comprar un armario extra para 6–12 meses.
+Alinear el gabinete de la renta es trabajo para un 20% menos de plata a la vista. No vale. No hay segundo módulo.
+
+Si la lavadora desde la mesa sigue molestando: se convive. No cortina, no armario extra, 6–12 meses.

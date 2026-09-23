@@ -111,9 +111,7 @@ Fotos: [`muro largo`](../refs/depa-real/billy/01-sala-muro-largo.jpg) · [`junto
 
 **No: pegado al sillón / muro de la TV.** Ahí ya están las bancas de madera, vinyl y bocinas. El Billy duplica estación, llena la cara del sofá y mata el cascarón de esa pared.
 
-**Cocina de pie:** pantalla desde la mesa (se deja de ver la lavadora de lado). **No tapa caños ni el tablero**: están en el muro de la máquina, el Billy queda a la izquierda. Se ve recorte hasta que el gabinete alto gris se alinee con la columna. Vale como **segundo** módulo, no como destino del único.
-
-El único Billy se queda en el muro largo. Segundo 40×28×202 solo si duele la lavadora a la vista desde el comedor; entonces de pie, a la columna, vanos llenos. No apilar en sala.
+**Cocina de pie:** no. Aunque se alinee a la columna, no mejora la cocina (ver [cocina real](cocina-real.md)). El único Billy se queda en el muro largo. No hay segundo módulo.
 
 Módem: abajo, detrás de la planta o detrás del teddy — no coronando el mueble.
 
@@ -132,13 +130,13 @@ Orden: restar → agrupar → (opcional) una compra.
 1. **Semana 1 — restar.** Todo lo que no sea las piezas de la tabla, fuera de la sala. Archivar el 80% de papel/vinyl.
 2. **Semana 2 — una estación.** Lo visible de revistas/libros/discos en un solo punto, stacks o crates. Desk otra vez vacío (teclado, mouse, una taza).
 3. **Semana 3 — una rara, si ya está.** Bowl de llaves, una foto con cinta, el player si se usa. No ir a comprar “rarezas”.
-4. **Billy:** se queda en el muro largo de sala. Segundo módulo (cocina de pie) solo si la lavadora desde la mesa sigue molestando. Nunca dos pisos en sala.
+4. **Billy:** muro largo de sala. No segundo módulo para cocina.
 
 Prohibido en este plazo: alfombra persa, sillas icónicas, gabinetes de cocina, cama nueva, obra.
 
 ## Cocina
 
-Ya hay fotos. Ver [cocina real](cocina-real.md). Mesa redonda ya está. Billy de pie = segundo módulo, no el primero.
+Ya hay fotos. Ver [cocina real](cocina-real.md). Mesa redonda ya está. **Sin Billy.**
 
 Recámara principal: [recámara real](recamara-real.md). Visitas: [archivo](zonas/visitas.md).
 
