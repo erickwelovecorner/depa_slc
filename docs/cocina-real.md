@@ -53,3 +53,30 @@ Pegado al refri, ruedas. El cojín, bajo el desk o en visitas.
 **No:** cafetera, lata roja, galletas, papeles, vinyl, planta, cosas del desk, especias, botellas sueltas. Si está lleno, es relleno. Si está pelado y al filo, es el final de la cocina.
 
 No comprar nada para llenarlo. Loza que ya hay + tazones del perro. El medio puede ir vacío.
+
+## Cómo buscar refs (carrito)
+
+Busca **el carrito en un cuarto**, no el producto vacío. Inglés (o francés). En español sale “organización”.
+
+Palabras que sí:
+
+- `kitchen utility cart stacked plates`
+- `rolling kitchen trolley dishes stack`
+- `metal kitchen cart ceramics white apartment`
+- `desserte cuisine assiettes`
+- `kitchen linen trolley folded towels`
+- `japanese apartment kitchen cart dishes`
+
+Filtro al guardar:
+
+- El carrito **cierra** un filo de cocina (junto al refri o al final de la corrida).
+- Arriba hay **altura**: stack de platos o bowls, una familia.
+- Medio quieto (lino, mesh o aire).
+- Muro blanco atrás. Piso claro. Madera + metal negro.
+- Se ve de un living / desk, no de un set de Pinterest.
+
+Evita: `bar cart`, `coffee cart`, `coffee station`, `kitchen cart styling`, `RÅSKOG hack`, `pantry organization`. Esas búsquedas llenan el mueble.
+
+No busques `dog` ni `pet station`: sale comedero de influencer. Los tazones van abajo porque ya son de esta casa.
+
+Manda 4–6 fotos de **solo el carrito** (o el rincón refri + carrito). Con eso cerramos el stack.
