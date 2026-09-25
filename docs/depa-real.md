@@ -38,7 +38,7 @@ No comprar sofá, desk, silla de diseño, mueble de TV, mesa de centro nueva.
 ## Lo que no es impedimento
 
 - **Piso de loseta, no duela.** El sobre claro cumple. No fingir madera.
-- **Plafoneras redondas.** No son Akari. Se vive con ellas; un farol de papel es la única compra de luz que valdría, y solo si es barato y se lleva al irse.
+- **Plafoneras redondas.** No son Akari. En cocina se sustituye la de la mesa por [HAVSDJUP](cocina-real.md#lámpara-sobre-la-mesa) (papel, 90 cm, se lleva). El resto se vive.
 - **Silla negra de oficina.** Invisible a escala casa. No cambiar.
 - **Dos mesas chicas en vez de una ancha.** Ok.
 - **Cocina “de otra forma”.** Se ajusta con quitar y agrupar. Fotos después.
@@ -136,7 +136,7 @@ Prohibido en este plazo: alfombra persa, sillas icónicas, gabinetes de cocina, 
 
 ## Cocina
 
-Ya hay fotos. Ver [cocina real](cocina-real.md). Mesa redonda ya está. **Sin Billy.** Carrito: borde de cocina (loza arriba, perro abajo). Cafetera en la cubierta.
+Ya hay fotos. Ver [cocina real](cocina-real.md). Mesa redonda ya está. **Sin Billy.** Carrito: borde de cocina (loza arriba, perro abajo). Cafetera en la cubierta. Lámpara: HAVSDJUP 90 cm, centrada sobre la mesa.
 
 Recámara principal: [recámara real](recamara-real.md). Visitas: [archivo](zonas/visitas.md).
 

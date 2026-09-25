@@ -9,6 +9,7 @@ Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con B
 - Mesa **redonda blanca** + sillas desparejas (negra, transparentes). Eso es el ancla de las refs.
 - Gabinetes gris oscuro, refri negro, cubierta de madera. Taller, no shaker.
 - Carrito: **borde de cocina + servicio**, no estación de café. La cafetera va a la cubierta. Ver abajo.
+- Techo: **IKEA PS 2026 / HAVSDJUP** (90 cm, papel) centrada sobre la mesa. Ver abajo.
 
 ## Lavadora: atrás. Gabinete de arriba: fuera
 
@@ -80,3 +81,24 @@ Evita: `bar cart`, `coffee cart`, `coffee station`, `kitchen cart styling`, `RÅ
 No busques `dog` ni `pet station`: sale comedero de influencer. Los tazones van abajo porque ya son de esta casa.
 
 Manda 4–6 fotos de **solo el carrito** (o el rincón refri + carrito). Con eso cerramos el stack.
+
+## Lámpara sobre la mesa
+
+La mesa redonda ya es el ancla. El plafón no hace nada: es luz de renta, no pieza. Un colgante **centrado y bajo** sobre la mesa es lo que las refs piden. Se lleva al irse (gancho).
+
+Tres opciones IKEA:
+
+| | Qué es | Sobre esta mesa |
+|---|---|---|
+| [IKEA PS 2026 / HAVSDJUP](https://www.ikea.com/mx/es/p/ikea-ps-2026-havsdjup-lampara-de-techo-hecho-a-mano-blanco-s79625405/) | Farol de papel, media luna, **90 cm** | **Sí.** Escala de las refs. Techo bajo. |
+| [TRETTIOEN](https://www.ikea.com/mx/es/p/trettioen-lampara-de-techo-blanco-30564111/) | Platillo esmalte blanco, 38 cm | Color ok. Escala no: un sombrero chico. |
+| [SKURUP](https://www.ikea.com/mx/es/p/skurup-lampara-de-techo-negro-40544542/) | Cúpula negra, 38 cm | No. Más negro sobre gabinetes + refri. Airbnb. |
+
+**Gana HAVSDJUP.** 38 cm sobre una mesa de ~1 m es el mismo problema del carrito sin altura: se lee incompleto. El papel es la lámpara de casa (living, cocina, recámara). Media luna para no comer el techo.
+
+Cómo:
+
+- Centrada en la **mesa**, no en el plafón (el box queda más hacia la ventana). Si se usa el punto que ya hay, se acerca la mesa. No dos lámparas.
+- Baja. El canto ~70–80 cm sobre el tablero. No pegada al techo.
+- Bombilla globo ópalo **cálida (2700 K)**, no la SOLHETTA 5000 K de la ficha.
+- Si está agotada en línea: preguntar en tienda. No sustituir por SKURUP. TRETTIOEN solo si no hay papel.
