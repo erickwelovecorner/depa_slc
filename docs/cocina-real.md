@@ -8,7 +8,7 @@ Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con B
 
 - Mesa **redonda blanca** + sillas desparejas (negra, transparentes). Eso es el ancla de las refs.
 - Gabinetes gris oscuro, refri negro, cubierta de madera. Taller, no shaker.
-- Carrito: **estación de café**, no relleno del muro. Ver abajo.
+- Carrito: **borde de cocina + servicio**, no estación de café. La cafetera va a la cubierta. Ver abajo.
 
 ## Lavadora: atrás. Gabinete de arriba: fuera
 
@@ -34,17 +34,22 @@ No: Billy, cajón de obra, pintar el tablero, segunda cortina de ducha barata co
 
 ## Carrito al lado del refri
 
-Sin él, el rincón se puede leer **incompleto**: no es que el blanco pida cuadro, es que la cocina se queda sin borde. El cojín vino y los tazones sueltos empeoran ese vacío.
+Sin él, el rincón se lee **incompleto**: la cocina no termina. El cojín vino y los tazones sueltos empeoran ese vacío.
 
-Dos lecturas:
+La cafetera **no** va aquí. En la cubierta de madera se lee taller; en el carrito pelea con el mini-split y se ve electrodoméstico en el living.
 
-| | Qué es |
-|---|---|
-| Incompleto (sí) | La cocina no termina. Falta estación de café. |
-| Genérico (no) | Hay que amueblar el muro blanco del desk. |
+Se cierra el **borde de cocina**, no el fondo de la oficina. El blanco **entre** carrito y escritorio se queda vacío.
 
-Se cierra el **borde de cocina**, no el fondo de la oficina.
+**Programa** (tres entrepaños, tres trabajos):
 
-**Cómo:** carrito pegado al refri, ruedas, tres cosas máximo: cafetera, un bote, tazones abajo. Cero lata roja, galletas, papeles. El blanco **entre** carrito y escritorio se queda vacío. El cojín, bajo el desk o en visitas.
+| Nivel | Qué | Por qué |
+|---|---|---|
+| Arriba | Stack de loza (platos o bowls). Una familia, una silueta. | Sin cafetera hace falta **altura**. Un bote suelto otra vez se lee incompleto. |
+| Medio | Trapos/lino doblados **o** una canasta mesh. Vacío también vale. | Servicio, no pantry. |
+| Abajo | Tazones del perro. | Ya es su sitio; salen del piso. |
 
-No se deja para tapar el mini-split. Si está lleno, es relleno. Si está pelado y al filo del refri, es el final de la cocina.
+Pegado al refri, ruedas. El cojín, bajo el desk o en visitas.
+
+**No:** cafetera, lata roja, galletas, papeles, vinyl, planta, cosas del desk, especias, botellas sueltas. Si está lleno, es relleno. Si está pelado y al filo, es el final de la cocina.
+
+No comprar nada para llenarlo. Loza que ya hay + tazones del perro. El medio puede ir vacío.
