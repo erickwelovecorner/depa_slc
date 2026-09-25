@@ -136,7 +136,7 @@ Prohibido en este plazo: alfombra persa, sillas icónicas, gabinetes de cocina, 
 
 ## Cocina
 
-Ya hay fotos. Ver [cocina real](cocina-real.md). Mesa redonda ya está. **Sin Billy.**
+Ya hay fotos. Ver [cocina real](cocina-real.md). Mesa redonda ya está. **Sin Billy.** Carrito: café pelado al filo del refri, no relleno del muro blanco hacia el desk.
 
 Recámara principal: [recámara real](recamara-real.md). Visitas: [archivo](zonas/visitas.md).
 

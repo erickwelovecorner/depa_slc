@@ -8,7 +8,7 @@ Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con B
 
 - Mesa **redonda blanca** + sillas desparejas (negra, transparentes). Eso es el ancla de las refs.
 - Gabinetes gris oscuro, refri negro, cubierta de madera. Taller, no shaker.
-- Carrito con ruedas al lado del refri: **sale de esa pared.** Ver abajo.
+- Carrito: **estación de café**, no relleno del muro. Ver abajo.
 
 ## Lavadora: atrás. Gabinete de arriba: fuera
 
@@ -34,8 +34,17 @@ No: Billy, cajón de obra, pintar el tablero, segunda cortina de ducha barata co
 
 ## Carrito al lado del refri
 
-**Fuera de esa pared.** Desde el escritorio el blanco no es genérico: es el aire entre cocina e isla. Rellenarlo es lo que se lee improvisado. El mini-split rojo ya ocupa el muro; el carrito pelea con él y con el desk.
+Sin él, el rincón se puede leer **incompleto**: no es que el blanco pida cuadro, es que la cocina se queda sin borde. El cojín vino y los tazones sueltos empeoran ese vacío.
 
-La cafetera va a la cubierta de cocina (ya hay madera). Tazones, al piso junto al refri, un rincón. El carrito, a visitas o se usa vacío en otro lado, no aquí.
+Dos lecturas:
 
-Si se quedara sería estación de café: cafetera + un bote, nada de lata roja ni galletas a la vista. Aun así, la foto sin él gana. No se deja para “llenar el fondo de la oficina”.
+| | Qué es |
+|---|---|
+| Incompleto (sí) | La cocina no termina. Falta estación de café. |
+| Genérico (no) | Hay que amueblar el muro blanco del desk. |
+
+Se cierra el **borde de cocina**, no el fondo de la oficina.
+
+**Cómo:** carrito pegado al refri, ruedas, tres cosas máximo: cafetera, un bote, tazones abajo. Cero lata roja, galletas, papeles. El blanco **entre** carrito y escritorio se queda vacío. El cojín, bajo el desk o en visitas.
+
+No se deja para tapar el mini-split. Si está lleno, es relleno. Si está pelado y al filo del refri, es el final de la cocina.
