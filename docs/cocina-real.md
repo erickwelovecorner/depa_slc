@@ -2,7 +2,7 @@
 
 Estado: fotografiada. **Sin Billy.** El único módulo se queda en el muro largo de sala. Ver [depa real](depa-real.md).
 
-Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con Billy`](../refs/depa-real/cocina/02-con-billy.jpg) · [`03 lavadora`](../refs/depa-real/cocina/03-lavadora-detalle.jpg) · [`04 sin carrito`](../refs/depa-real/cocina/04-sin-carrito-desde-desk.jpg) · [`05 con carrito`](../refs/depa-real/cocina/05-con-carrito-desde-desk.jpg) · [`06 despejada`](../refs/depa-real/cocina/06-lavadora-despejada.jpg) · [`07 nicho madera`](../refs/depa-real/cocina/07-nicho-taller-ref.png) · [`08 cara carbón`](../refs/depa-real/cocina/08-cara-carbon-ref.png)
+Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con Billy`](../refs/depa-real/cocina/02-con-billy.jpg) · [`03 lavadora`](../refs/depa-real/cocina/03-lavadora-detalle.jpg) · [`04 sin carrito`](../refs/depa-real/cocina/04-sin-carrito-desde-desk.jpg) · [`05 con carrito`](../refs/depa-real/cocina/05-con-carrito-desde-desk.jpg) · [`06 despejada`](../refs/depa-real/cocina/06-lavadora-despejada.jpg) · [`07 nicho madera`](../refs/depa-real/cocina/07-nicho-taller-ref.png) · [`08 cara grafito`](../refs/depa-real/cocina/08-cara-carbon-ref.png)
 
 Ref de cómo acaba (pinta): [`08`](../refs/depa-real/cocina/08-cara-carbon-ref.png). Solo esa cara. Encima, nada. [`07`](../refs/depa-real/cocina/07-nicho-taller-ref.png) es la alternativa en madera.
 
@@ -12,7 +12,7 @@ Ref de cómo acaba (pinta): [`08`](../refs/depa-real/cocina/08-cara-carbon-ref.p
 - Gabinetes gris oscuro, refri negro, cubierta de madera. Taller, no shaker.
 - Carrito: **borde de cocina + servicio**, no estación de café. La cafetera va a la cubierta. Ver abajo.
 - Techo: **IKEA PS 2026 / HAVSDJUP** (90 cm, papel) centrada sobre la mesa. Ver abajo.
-- Hueco de lavandería **despejado**. Gabinete fuera. No BOAXEL. Cara del fondo: **carbón mate liso**.
+- Hueco de lavandería **despejado**. Gabinete fuera. No BOAXEL. Cara del fondo: **grafito casi negro, mate liso**.
 
 ## Lavadora: atrás. Gabinete: ya fuera
 
@@ -28,7 +28,7 @@ Foto [`06`](../refs/depa-real/cocina/06-lavadora-despejada.jpg): el gabinete ya 
 
 No un mueble. Un **campo**. El hueco se vuelve pozo de servicio.
 
-**Gana: pintar solo la cara del fondo**, vinílica **mate carbón / grafito** (negro de muro, no azabache, **no pizarra**). Columna hacia la mesa: blanca. Muro de la ventana: blanco. Toda la cara, piso a techo, alrededor del panel. Encima, nada. Los PVC se quedan blancos: ese es el dibujo.
+**Gana: pintar solo la cara del fondo**, vinílica **mate grafito casi negro** (el chip más oscuro de la rampa gris, no azul, no azabache, **no pizarra**). Columna hacia la mesa: blanca. Muro de la ventana: blanco. Toda la cara, piso a techo, alrededor del panel. Encima, nada. Los PVC se quedan blancos: ese es el dibujo.
 
 Resanar agujeros **antes**. Cinta en las aristas para no manchar columna ni ventana.
 
@@ -48,7 +48,7 @@ No es difícil. Es **una tarde**, no obra.
 - Vinílica mate se cubre. Pizarra y esmalte no (textura / más manos).
 - Al irte: una mano de **primer cubriente** (sellador para colores oscuros) + **dos de blanco** mate, el del resto del depa.
 - Si puedes, guarda un poco del blanco de la columna o cómpralo igual ahora.
-- Carbón cubre más fácil que negro puro.
+- Grafito cubre más fácil que negro puro. Negro de chip (casi negro) sigue siendo una tarde.
 
 ### Alternativa (madera)
 

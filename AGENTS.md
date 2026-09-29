@@ -12,7 +12,7 @@ Este hilo y estos docs aterrizan **refs → concepto → aplicación en el depa 
 - Zonas principales **cerradas**. No reabrir living, cocina, trabajo ni recámara salvo corrección explícita.
 - Baño y terraza: todavía no.
 - Al recomendar para el depa real, partir de `docs/depa-real.md` (presupuesto, tamaño, plazo). Las refs son el norte visual; este depa manda en lo que se compra y lo que se muestra.
-- Fase 3: living/trabajo + recámara + cocina. Billy en muro largo. Cocina: lavadora recesada, gabinete **ya fuera**, sin BOAXEL. Cara del fondo **carbón mate liso** (columna y ventana blancas). Carrito = borde. Lámpara: HAVSDJUP 90 cm. Visitas = archivo.
+- Fase 3: living/trabajo + recámara + cocina. Billy en muro largo. Cocina: lavadora recesada, gabinete **ya fuera**, sin BOAXEL. Cara del fondo **grafito casi negro mate** (columna y ventana blancas). Carrito = borde. Lámpara: HAVSDJUP 90 cm. Visitas = archivo.
 
 ## Estado
 
