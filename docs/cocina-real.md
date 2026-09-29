@@ -10,7 +10,7 @@ Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con B
 - Gabinetes gris oscuro, refri negro, cubierta de madera. Taller, no shaker.
 - Carrito: **borde de cocina + servicio**, no estación de café. La cafetera va a la cubierta. Ver abajo.
 - Techo: **IKEA PS 2026 / HAVSDJUP** (90 cm, papel) centrada sobre la mesa. Ver abajo.
-- Hueco de lavandería **despejado**. Gabinete alto fuera. No se rellena.
+- Hueco de lavandería **despejado**. Gabinete fuera. No BOAXEL. Nicho de taller: un tablero de madera, no un mueble.
 
 ## Lavadora: atrás. Gabinete: ya fuera
 
@@ -18,20 +18,35 @@ Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con B
 
 **El gabinete alto ya salió.** Era el ruido: un cajón gris que no empataba la columna ni la línea de cocina. El hueco despejado es el estado bueno, no un vacío que hay que amueblar.
 
-Queda: muro + lavadora atrás + tablero + [llaves](#llaves-lo-que-sí-molesta). Nada en ese hueco (ni estante, ni planta, **ni BOAXEL**). El lienzo no hace falta. Solo volante gris y mangueras pegadas.
+Queda: muro + lavadora atrás + tablero + [llaves](#llaves-lo-que-sí-molesta). No se amuebla (ni estante, ni planta, **ni BOAXEL**). Se **acaba** como nicho de taller. Ver abajo.
 
-Foto [`06`](../refs/depa-real/cocina/06-lavadora-despejada.jpg): el gabinete ya no está. Lo que se lee incompleto **no es falta de mueble**. Son los agujeros y el recorte de la caja que se arrancó, el herraje que quedó en el muro, los rieles en el piso y el naranja de la manija.
+Foto [`06`](../refs/depa-real/cocina/06-lavadora-despejada.jpg): el gabinete ya no está. Lo incompleto son agujeros, el recorte de la caja, el herraje, los rieles en el piso y el naranja. Resanar ayuda; el blanco liso otra vez se lee genérico. La personalidad no entra con un riel de IKEA: entra con **una superficie**.
 
-Orden, barato, sin comprar estante:
+## Nicho de taller (sí)
 
-1. Resanar agujeros y la caja abierta. Tapa blanca o yeso. Eso es el 80%.
-2. Quitar el perfil de metal que quedó a la derecha.
-3. Rieles del piso: fuera.
-4. Manija naranja → cromo/gris. Mangueras cortas, abrazaderas.
-5. Bote gris: se puede quedar (misma familia que la máquina). Pegado a la esquina.
-6. Sticker amarillo de la puerta: si se despega, mejor.
+No un mueble. Un **forro**. El hueco se vuelve pozo de servicio, no recámara a medio desmontar.
 
-BOAXEL taparía los agujeros. Por eso tienta. Es el motivo equivocado: se tapa una herida con un mueble de $2,250 y se vuelve a llenar el cuadro.
+**Gana: un tablero de madera (pino o birch, 12–15 mm) en el muro del fondo.** Solo ese plano. Recorte alrededor del tablero eléctrico para que abra. Los tubos de la derecha se quedan vistos: ese es el dibujo industrial.
+
+Por qué:
+
+- Cubre las heridas sin fingir que no hubo gabinete.
+- Madera cruda = taller, no shaker, no “organización”.
+- Se atornilla; se lleva a los 6–12 meses.
+- El panel gris queda como equipo metido en el tablero, no como mancha en un muro de renta.
+
+No OSB (demasiado obra junto a la mesa redonda). No pintar la madera de blanco. No colgarle repisas: en el momento en que hay balda, es BOAXEL otra vez.
+
+El resto, igual de barato:
+
+1. Quitar el perfil de metal y los rieles del piso.
+2. Manija naranja → cromo/gris. Mangueras cortas, abrazaderas.
+3. Bote gris: se queda, a la esquina. Misma familia que la máquina.
+4. Sticker amarillo: si se despega, mejor.
+
+**Plan B** si no quieren madera: pintar **solo el nicho** (las tres caras del hueco) gris piedra mate. Entonces sí hay que resanar antes. El comedor sigue blanco; el pozo se lee servicio. No pintar toda la cocina.
+
+No: cortina, pegboard, planta, cuadro, segunda caja, BOAXEL.
 
 ## BOAXEL: no en este hueco
 
@@ -70,7 +85,7 @@ La teoría (muros blancos, piezas negras) vale para **muebles que se leen como p
 
 Billy y Kallax blancos están bien: son guardado bajo, no un segundo bloque oscuro. Los gabinetes de cocina ya son el volumen oscuro de este cuarto. Un BOAXEL carbón sería el mismo error del gabinete alto: otra caja oscura que no empata la corrida.
 
-Jabón y canasta: bajo tarja o visitas. Manija naranja → gris. Muro vacío.
+Jabón y canasta: bajo tarja o visitas. Manija naranja → gris. Nicho = madera, no riel.
 
 ## Llaves (lo que sí molesta)
 
