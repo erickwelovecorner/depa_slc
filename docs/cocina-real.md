@@ -28,6 +28,35 @@ No un mueble. Un **forro**. El hueco se vuelve pozo de servicio, no recámara a 
 
 **Gana: un tablero de madera (pino o birch, 12–15 mm) en el muro del fondo.** Solo ese plano. Recorte alrededor del tablero eléctrico para que abra. Los tubos de la derecha se quedan vistos: ese es el dibujo industrial.
 
+Mide, no copies un módulo. Placa de 1.22×2.44 y se recorta. Veta **vertical**. Cruda o aceite mate; no blanco, no brillo.
+
+```
+techo
+|---- tubos horizontales ----------------|
+|  MADERA                    | tubos     |
+|            [PANEL]         | vertical  |
+|            recorte         |           |
+|----------------------------|           |
+   contactos  llaves   ← fuera del tablero
+  [     LAVADORA      ]   [bote]
+```
+
+Dónde corta:
+
+| Canto | Dónde |
+|---|---|
+| Izquierda | Esquina del hueco (el muro hacia la mesa). |
+| Derecha | **8 cm antes** del tubo vertical. Los PVC se quedan sobre el yeso. |
+| Abajo | **8 cm arriba** de las tapas de los contactos. No tapa enchufes ni llaves. |
+| Arriba | **5 cm bajo** el techo, o justo bajo el tubo horizontal. |
+| Recorte | La caja del panel + ~5 mm de aire. La puerta tiene que abrir. |
+
+Orden de magnitud (confirmar con cinta): ancho **~90–110 cm**, alto **~100–120 cm**. Si queda un rectángulo chico como el gabinete viejo, se lee otra vez recorte: que suba al techo.
+
+**Encima: nada.** El tablero es la pieza. Madera + panel gris metido + tubos a la derecha. Eso es el taller.
+
+No: jabón, cajas, fotos, baldas, pegboard. Un gancho de metal abajo a la izquierda, como mucho, para un trapo. El bote gris sigue en el piso.
+
 Por qué:
 
 - Cubre las heridas sin fingir que no hubo gabinete.
