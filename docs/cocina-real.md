@@ -39,6 +39,10 @@ BOAXEL taparía los agujeros. Por eso tienta. Es el motivo equivocado: se tapa u
 
 **Tampoco sirve de mucho.** El jabón cabe bajo la tarja. El bote gris ya es el cesto. El tendedero pondría ropa húmeda a la vista de la mesa. Las repisas útiles caen donde está el tablero: o se saltan (quedan dos baldas raras) o lo tapan (no). Guardado real = gabinetes de cocina, que ya son cerrados. BOAXEL aquí es un tendedero de vitrina.
 
+Sí: las baldas van a clic y la altura se ajusta. Eso no mueve el tablero. Puedes dejar un hueco a esa cota; los rieles siguen pasando a los lados y las llaves siguen abajo. Ajustable ≠ muro liso.
+
+Refs que mandó ([carpeta](../refs/depa-real/cocina/boaxel-refs/)): baño o lavadero cerrado, azulejo, puerta. Segunda bahía al lado de la máquina (canastas, aspiradora, ropa colgada). Aquí esa bahía son tubos + ventana + mesa a un metro. Copiar esas fotos es copiar un cuarto que no existe.
+
 Por qué no se ve:
 
 - El **tablero eléctrico** queda a la altura de las repisas. No se tapa ni se estorba.
