@@ -75,15 +75,17 @@ El resto, igual de barato:
 3. Bote gris: se queda, a la esquina. Misma familia que la máquina.
 4. Sticker amarillo: si se despega, mejor.
 
-**Plan B** si no quieren madera: pintar **solo el pozo** gris carbón mate (el muro del fondo, opcional las caras interiores del hueco). El comedor y el muro hacia la mesa siguen blancos. Entonces sí hay que resanar antes: el oscuro enseña cada hoyo.
+**Plan B** si no quieren madera: pintar **solo la cara del fondo** (donde está el panel). Columna hacia la mesa: blanca. Muro de la ventana: blanco. Carbón / grafito mate, no azabache. Resanar antes: el oscuro enseña cada hoyo.
 
-No negro azabache: la máquina es gris y se ve sucia contra un negro puro. Carbón / grafito, la misma familia que los gabinetes. Los tubos blancos sobre carbón son el dibujo industrial.
+Eso es el sliver oscuro que se ve desde el comedor: el pozo se recuesta, la mesa sigue en aire blanco. Los tubos blancos sobre carbón son el dibujo.
+
+Ref tipo [Laundry Co.](../refs/depa-real/cocina/boaxel-refs/05-muro-negro-styling-no.jpg): se copia el **campo oscuro**, no el pegboard, el letrero, las canastas ni los rollos. Esa foto es un cuarto de lavado con tarja. Aquí es una cara. Encima, nada.
 
 No pintar:
 
-- El muro blanco hacia la mesa (el cascarón del comedor).
+- La columna / muro hacia la mesa.
 - El muro de la ventana.
-- Madera + pintura negra juntas (se mata el taller).
+- Madera + pintura oscura juntas.
 
 6–12 meses: se vuelve a blanco al irse. La madera se destornilla; la pintura se repara.
 
