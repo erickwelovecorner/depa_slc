@@ -2,7 +2,9 @@
 
 Estado: fotografiada. **Sin Billy.** El único módulo se queda en el muro largo de sala. Ver [depa real](depa-real.md).
 
-Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con Billy`](../refs/depa-real/cocina/02-con-billy.jpg) · [`03 lavadora`](../refs/depa-real/cocina/03-lavadora-detalle.jpg) · [`04 sin carrito`](../refs/depa-real/cocina/04-sin-carrito-desde-desk.jpg) · [`05 con carrito`](../refs/depa-real/cocina/05-con-carrito-desde-desk.jpg) · [`06 despejada`](../refs/depa-real/cocina/06-lavadora-despejada.jpg)
+Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con Billy`](../refs/depa-real/cocina/02-con-billy.jpg) · [`03 lavadora`](../refs/depa-real/cocina/03-lavadora-detalle.jpg) · [`04 sin carrito`](../refs/depa-real/cocina/04-sin-carrito-desde-desk.jpg) · [`05 con carrito`](../refs/depa-real/cocina/05-con-carrito-desde-desk.jpg) · [`06 despejada`](../refs/depa-real/cocina/06-lavadora-despejada.jpg) · [`07 nicho taller`](../refs/depa-real/cocina/07-nicho-taller-ref.png)
+
+Ref de cómo acaba: [`07`](../refs/depa-real/cocina/07-nicho-taller-ref.png). Sube al techo. Encima, nada. La versión chica flotante se lee otra vez gabinete: no.
 
 ## Qué ya está bien
 
