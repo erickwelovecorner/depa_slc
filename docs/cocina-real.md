@@ -16,7 +16,7 @@ Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con B
 
 **La máquina se queda donde está**, recesada. Traerla al filo de la columna la mete al paso (mesa → ventana) y la hace más visible desde el comedor. Ahora es un sliver; adelantada es un electrodoméstico en el cuarto.
 
-**El gabinete alto ya salió.** Era el ruido: un cajón gris que no empataba la columna ni la línea de cocina. El hueco despejado es el estado bueno, no un vacío que hay que amueblar.
+**El gabinete alto ya salió.** Era el ruido: un cajón gris que no empataba la columna ni la línea de cocina. No se vuelve a amueblar. Sí se **acaba** como nicho de taller.
 
 Queda: muro + lavadora atrás + tablero + [llaves](#llaves-lo-que-sí-molesta). No se amuebla (ni estante, ni planta, **ni BOAXEL**). Se **acaba** como nicho de taller. Ver abajo.
 

@@ -136,7 +136,7 @@ Prohibido en este plazo: alfombra persa, sillas icónicas, gabinetes de cocina, 
 
 ## Cocina
 
-Ya hay fotos. Ver [cocina real](cocina-real.md). Mesa redonda ya está. **Sin Billy.** Carrito: borde de cocina (loza arriba, perro abajo). Cafetera en la cubierta. Lámpara: HAVSDJUP 90 cm, centrada sobre la mesa. Lavadora recesada, gabinete **ya fuera**; no BOAXEL.
+Ya hay fotos. Ver [cocina real](cocina-real.md). Mesa redonda ya está. **Sin Billy.** Carrito: borde de cocina (loza arriba, perro abajo). Cafetera en la cubierta. Lámpara: HAVSDJUP 90 cm, centrada sobre la mesa. Lavadora recesada, gabinete **ya fuera**; nicho = tablero de madera, no BOAXEL.
 
 Recámara principal: [recámara real](recamara-real.md). Visitas: [archivo](zonas/visitas.md).
 
