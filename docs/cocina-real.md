@@ -4,7 +4,7 @@ Estado: fotografiada. **Sin Billy.** El único módulo se queda en el muro largo
 
 Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con Billy`](../refs/depa-real/cocina/02-con-billy.jpg) · [`03 lavadora`](../refs/depa-real/cocina/03-lavadora-detalle.jpg) · [`04 sin carrito`](../refs/depa-real/cocina/04-sin-carrito-desde-desk.jpg) · [`05 con carrito`](../refs/depa-real/cocina/05-con-carrito-desde-desk.jpg) · [`06 despejada`](../refs/depa-real/cocina/06-lavadora-despejada.jpg) · [`07 nicho taller`](../refs/depa-real/cocina/07-nicho-taller-ref.png)
 
-Ref de cómo acaba: [`07`](../refs/depa-real/cocina/07-nicho-taller-ref.png). Sube al techo. Encima, nada. La versión chica flotante se lee otra vez gabinete: no.
+Ref de cómo acaba en madera (alternativa): [`07`](../refs/depa-real/cocina/07-nicho-taller-ref.png). Gana pintura. Encima, nada.
 
 ## Qué ya está bien
 
@@ -12,7 +12,7 @@ Ref de cómo acaba: [`07`](../refs/depa-real/cocina/07-nicho-taller-ref.png). Su
 - Gabinetes gris oscuro, refri negro, cubierta de madera. Taller, no shaker.
 - Carrito: **borde de cocina + servicio**, no estación de café. La cafetera va a la cubierta. Ver abajo.
 - Techo: **IKEA PS 2026 / HAVSDJUP** (90 cm, papel) centrada sobre la mesa. Ver abajo.
-- Hueco de lavandería **despejado**. Gabinete fuera. No BOAXEL. Nicho de taller: un tablero de madera, no un mueble.
+- Hueco de lavandería **despejado**. Gabinete fuera. No BOAXEL. Cara del fondo: **carbón mate liso**.
 
 ## Lavadora: atrás. Gabinete: ya fuera
 
@@ -26,68 +26,33 @@ Foto [`06`](../refs/depa-real/cocina/06-lavadora-despejada.jpg): el gabinete ya 
 
 ## Nicho de taller (sí)
 
-No un mueble. Un **forro**. El hueco se vuelve pozo de servicio, no recámara a medio desmontar.
+No un mueble. Un **campo**. El hueco se vuelve pozo de servicio.
 
-**Gana: un tablero de madera (pino o birch, 12–15 mm) en el muro del fondo.** Solo ese plano. Recorte alrededor del tablero eléctrico para que abra. Los tubos de la derecha se quedan vistos: ese es el dibujo industrial.
+**Gana: pintar solo la cara del fondo**, vinílica **mate carbón / grafito** (negro de muro, no azabache, **no pizarra**). Columna hacia la mesa: blanca. Muro de la ventana: blanco. Toda la cara, piso a techo, alrededor del panel. Encima, nada. Los PVC se quedan blancos: ese es el dibujo.
 
-Mide, no copies un módulo. Placa de 1.22×2.44 y se recorta. Veta **vertical**. Cruda o aceite mate; no blanco, no brillo.
+Resanar agujeros **antes**. Cinta en las aristas para no manchar columna ni ventana.
 
-```
-techo
-|---- tubos horizontales ----------------|
-|  MADERA                    | tubos     |
-|            [PANEL]         | vertical  |
-|            recorte         |           |
-|----------------------------|           |
-   contactos  llaves   ← fuera del tablero
-  [     LAVADORA      ]   [bote]
-```
-
-Dónde corta:
-
-| Canto | Dónde |
-|---|---|
-| Izquierda | Esquina del hueco (el muro hacia la mesa). |
-| Derecha | **8 cm antes** del tubo vertical. Los PVC se quedan sobre el yeso. |
-| Abajo | **8 cm arriba** de las tapas de los contactos. No tapa enchufes ni llaves. |
-| Arriba | **5 cm bajo** el techo, o justo bajo el tubo horizontal. |
-| Recorte | La caja del panel + ~5 mm de aire. La puerta tiene que abrir. |
-
-Orden de magnitud (confirmar con cinta): ancho **~90–110 cm**, alto **~100–120 cm**. Si queda un rectángulo chico como el gabinete viejo, se lee otra vez recorte: que suba al techo.
-
-**Encima: nada.** El tablero es la pieza. Madera + panel gris metido + tubos a la derecha. Eso es el taller.
-
-No: jabón, cajas, fotos, baldas, pegboard. Un gancho de metal abajo a la izquierda, como mucho, para un trapo. El bote gris sigue en el piso.
-
-Por qué:
-
-- Cubre las heridas sin fingir que no hubo gabinete.
-- Madera cruda = taller, no shaker, no “organización”.
-- Se atornilla; se lleva a los 6–12 meses.
-- El panel gris queda como equipo metido en el tablero, no como mancha en un muro de renta.
-
-No OSB (demasiado obra junto a la mesa redonda). No pintar la madera de blanco. No colgarle repisas: en el momento en que hay balda, es BOAXEL otra vez.
-
-El resto, igual de barato:
+El resto, barato:
 
 1. Quitar el perfil de metal y los rieles del piso.
 2. Manija naranja → cromo/gris. Mangueras cortas, abrazaderas.
-3. Bote gris: se queda, a la esquina. Misma familia que la máquina.
+3. Bote gris a la esquina.
 4. Sticker amarillo: si se despega, mejor.
 
-**Plan B** si no quieren madera: pintar **solo la cara del fondo** (donde está el panel). Columna hacia la mesa: blanca. Muro de la ventana: blanco. Carbón / grafito mate, no azabache. Resanar antes: el oscuro enseña cada hoyo.
+Refs [Laundry Co.](../refs/depa-real/cocina/boaxel-refs/05-muro-negro-styling-no.jpg) y [pizarra](../refs/depa-real/cocina/boaxel-refs/06-pizarra-lettering-no.jpg): se copia el campo oscuro, no el pegboard ni las frases.
 
-Eso es el sliver oscuro que se ve desde el comedor: el pozo se recuesta, la mesa sigue en aire blanco. Los tubos blancos sobre carbón son el dibujo.
+### Volver a blanco al irse
 
-Ref tipo [Laundry Co.](../refs/depa-real/cocina/boaxel-refs/05-muro-negro-styling-no.jpg) o [pizarra](../refs/depa-real/cocina/boaxel-refs/06-pizarra-lettering-no.jpg): se copia el **campo oscuro**, no pegboard, letrero, frases, canasta de mimbre ni toalla de adorno. Esas fotos son un cuarto de lavado. Aquí es una cara. Encima, nada.
+No es difícil. Es **una tarde**, no obra.
 
-No pintar:
+- Vinílica mate se cubre. Pizarra y esmalte no (textura / más manos).
+- Al irte: una mano de **primer cubriente** (sellador para colores oscuros) + **dos de blanco** mate, el del resto del depa.
+- Si puedes, guarda un poco del blanco de la columna o cómpralo igual ahora.
+- Carbón cubre más fácil que negro puro.
 
-- La columna / muro hacia la mesa.
-- El muro de la ventana.
-- Madera + pintura oscura juntas.
+### Alternativa (madera)
 
-6–12 meses: se vuelve a blanco al irse. La madera se destornilla; la pintura se repara.
+Tablero pino/birch 12–15 mm en el mismo plano, recorte en el panel. Se destornilla. No las dos cosas. Ref: [`07`](../refs/depa-real/cocina/07-nicho-taller-ref.png).
 
 No: cortina, pegboard, planta, cuadro, segunda caja, BOAXEL.
 
