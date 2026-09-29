@@ -19,7 +19,40 @@ Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con B
 
 Si es de la renta: se desenrosca, se guarda en visitas, se vuelve a poner al irse. No se tira.
 
-Después de quitarlo: muro + lavadora atrás + [llaves](#llaves-lo-que-sí-molesta). Nada en ese hueco (ni estante, ni planta colgada). El lienzo deja de hacer falta: ya no hay de dónde colgarlo con sentido. Solo volante gris y mangueras.
+Después de quitarlo: muro + lavadora atrás + [llaves](#llaves-lo-que-sí-molesta). Nada en ese hueco (ni estante, ni planta colgada, **ni BOAXEL**). El lienzo deja de hacer falta: ya no hay de dónde colgarlo con sentido. Solo volante gris y mangueras.
+
+## BOAXEL: no en este hueco
+
+[Combinación lavandería](https://www.ikea.com/mx/es/p/boaxel-combinacion-para-la-lavanderia-carbon-metal-s69548894/): rieles a la pared, repisas a clic, 40 cm de fondo. En el catálogo flota sobre una lavadora y un muro vacío. Este muro no está vacío.
+
+Por qué no:
+
+- El **tablero eléctrico** queda a la altura de las repisas. No se tapa ni se estorba.
+- Llaves, mangueras y tubos PVC están en el mismo plano. IKEA: no en contacto con agua.
+- La combinación de **201 cm** baja a los lados de la máquina. Aquí no hay bahía limpia: columna a un lado, ventana al otro.
+- Abierto = el Downy y la canasta se ven desde la mesa. El gabinete gordo al menos escondía. Esto exhibe la lavandería.
+- 6–12 meses, taladro, taquetes. El gabinete de renta se desenrosca; esto agujerea el muro.
+
+**Una columna vs dos**
+
+| | Ancho | Aquí |
+|---|---|---|
+| Una ([82×40×201](https://www.ikea.com/mx/es/p/boaxel-combinacion-para-la-lavanderia-carbon-metal-s69548894/)) | 82 cm | Cabía en ancho sobre la máquina. Sigue chocando con tablero y tubos. |
+| Dos ([165×40×201](https://www.ikea.com/mx/es/p/boaxel-combinacion-para-la-lavanderia-carbon-s49548890/)) | 165 cm | **No.** Convierte el comedor en cuarto de lavado. Cubre hacia la ventana. |
+
+Si en otro depa, una columna. Aquí ninguna.
+
+**Blanco vs carbón (si fuera otro muro)**
+
+La teoría (muros blancos, piezas negras) vale para **muebles que se leen como pieza**: refri, sillas, lámpara, desk. Un riel de pared es infraestructura, no pieza.
+
+- **Carbón** dibuja una escalera negra alrededor del tablero gris y los tubos blancos. Presenta la zona fea.
+- **Blanco** se acerca al muro. Sigue siendo estante sobre un tablero.
+- No mezclar blanco y negro en el mismo BOAXEL.
+
+Billy y Kallax blancos están bien: son guardado bajo, no un segundo bloque oscuro. Los gabinetes de cocina ya son el volumen oscuro de este cuarto. Un BOAXEL carbón sería el mismo error del gabinete alto: otra caja oscura que no empata la corrida.
+
+Jabón y canasta: bajo tarja o visitas. Manija naranja → gris. Muro vacío.
 
 ## Llaves (lo que sí molesta)
 
@@ -31,7 +64,7 @@ Orden barato:
 2. **Mangueras cortas y pegadas al muro** (abrazaderas). Menos spaghetti blanco.
 3. Lienzo: **ya no.** Sin ese gabinete no hay de dónde colgarlo bien. Con volante gris alcanza.
 
-No: Billy, cajón de obra, pintar el tablero, segunda cortina de ducha barata con flores.
+No: Billy, cajón de obra, pintar el tablero, segunda cortina de ducha barata con flores, **BOAXEL**.
 
 ## Carrito al lado del refri
 
