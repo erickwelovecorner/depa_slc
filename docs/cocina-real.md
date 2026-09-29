@@ -2,7 +2,7 @@
 
 Estado: fotografiada. **Sin Billy.** El único módulo se queda en el muro largo de sala. Ver [depa real](depa-real.md).
 
-Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con Billy`](../refs/depa-real/cocina/02-con-billy.jpg) · [`03 lavadora`](../refs/depa-real/cocina/03-lavadora-detalle.jpg) · [`04 sin carrito`](../refs/depa-real/cocina/04-sin-carrito-desde-desk.jpg) · [`05 con carrito`](../refs/depa-real/cocina/05-con-carrito-desde-desk.jpg)
+Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con Billy`](../refs/depa-real/cocina/02-con-billy.jpg) · [`03 lavadora`](../refs/depa-real/cocina/03-lavadora-detalle.jpg) · [`04 sin carrito`](../refs/depa-real/cocina/04-sin-carrito-desde-desk.jpg) · [`05 con carrito`](../refs/depa-real/cocina/05-con-carrito-desde-desk.jpg) · [`06 despejada`](../refs/depa-real/cocina/06-lavadora-despejada.jpg)
 
 ## Qué ya está bien
 
@@ -19,6 +19,19 @@ Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con B
 **El gabinete alto ya salió.** Era el ruido: un cajón gris que no empataba la columna ni la línea de cocina. El hueco despejado es el estado bueno, no un vacío que hay que amueblar.
 
 Queda: muro + lavadora atrás + tablero + [llaves](#llaves-lo-que-sí-molesta). Nada en ese hueco (ni estante, ni planta, **ni BOAXEL**). El lienzo no hace falta. Solo volante gris y mangueras pegadas.
+
+Foto [`06`](../refs/depa-real/cocina/06-lavadora-despejada.jpg): el gabinete ya no está. Lo que se lee incompleto **no es falta de mueble**. Son los agujeros y el recorte de la caja que se arrancó, el herraje que quedó en el muro, los rieles en el piso y el naranja de la manija.
+
+Orden, barato, sin comprar estante:
+
+1. Resanar agujeros y la caja abierta. Tapa blanca o yeso. Eso es el 80%.
+2. Quitar el perfil de metal que quedó a la derecha.
+3. Rieles del piso: fuera.
+4. Manija naranja → cromo/gris. Mangueras cortas, abrazaderas.
+5. Bote gris: se puede quedar (misma familia que la máquina). Pegado a la esquina.
+6. Sticker amarillo de la puerta: si se despega, mejor.
+
+BOAXEL taparía los agujeros. Por eso tienta. Es el motivo equivocado: se tapa una herida con un mueble de $2,250 y se vuelve a llenar el cuadro.
 
 ## BOAXEL: no en este hueco
 
