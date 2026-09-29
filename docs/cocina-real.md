@@ -2,9 +2,9 @@
 
 Estado: fotografiada. **Sin Billy.** El único módulo se queda en el muro largo de sala. Ver [depa real](depa-real.md).
 
-Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con Billy`](../refs/depa-real/cocina/02-con-billy.jpg) · [`03 lavadora`](../refs/depa-real/cocina/03-lavadora-detalle.jpg) · [`04 sin carrito`](../refs/depa-real/cocina/04-sin-carrito-desde-desk.jpg) · [`05 con carrito`](../refs/depa-real/cocina/05-con-carrito-desde-desk.jpg) · [`06 despejada`](../refs/depa-real/cocina/06-lavadora-despejada.jpg) · [`07 nicho taller`](../refs/depa-real/cocina/07-nicho-taller-ref.png)
+Fotos: [`01 sin Billy`](../refs/depa-real/cocina/01-sin-billy.jpg) · [`02 con Billy`](../refs/depa-real/cocina/02-con-billy.jpg) · [`03 lavadora`](../refs/depa-real/cocina/03-lavadora-detalle.jpg) · [`04 sin carrito`](../refs/depa-real/cocina/04-sin-carrito-desde-desk.jpg) · [`05 con carrito`](../refs/depa-real/cocina/05-con-carrito-desde-desk.jpg) · [`06 despejada`](../refs/depa-real/cocina/06-lavadora-despejada.jpg) · [`07 nicho madera`](../refs/depa-real/cocina/07-nicho-taller-ref.png) · [`08 cara carbón`](../refs/depa-real/cocina/08-cara-carbon-ref.png)
 
-Ref de cómo acaba en madera (alternativa): [`07`](../refs/depa-real/cocina/07-nicho-taller-ref.png). Gana pintura. Encima, nada.
+Ref de cómo acaba (pinta): [`08`](../refs/depa-real/cocina/08-cara-carbon-ref.png). Solo esa cara. Encima, nada. [`07`](../refs/depa-real/cocina/07-nicho-taller-ref.png) es la alternativa en madera.
 
 ## Qué ya está bien
 
