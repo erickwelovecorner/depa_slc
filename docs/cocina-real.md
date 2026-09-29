@@ -37,7 +37,9 @@ BOAXEL taparía los agujeros. Por eso tienta. Es el motivo equivocado: se tapa u
 
 [Combinación lavandería](https://www.ikea.com/mx/es/p/boaxel-combinacion-para-la-lavanderia-carbon-metal-s69548894/): rieles a la pared, repisas a clic, 40 cm de fondo. En el catálogo flota sobre una lavadora y un muro vacío de catálogo. El hueco **ya está despejado**; lo que queda no es un muro liso: es tablero, llaves y tubos. Poner BOAXEL es volver a amueblar lo que se acaba de ganar.
 
-Por qué no:
+**Tampoco sirve de mucho.** El jabón cabe bajo la tarja. El bote gris ya es el cesto. El tendedero pondría ropa húmeda a la vista de la mesa. Las repisas útiles caen donde está el tablero: o se saltan (quedan dos baldas raras) o lo tapan (no). Guardado real = gabinetes de cocina, que ya son cerrados. BOAXEL aquí es un tendedero de vitrina.
+
+Por qué no se ve:
 
 - El **tablero eléctrico** queda a la altura de las repisas. No se tapa ni se estorba.
 - Llaves, mangueras y tubos PVC están en el mismo plano. IKEA: no en contacto con agua.
