@@ -75,7 +75,17 @@ El resto, igual de barato:
 3. Bote gris: se queda, a la esquina. Misma familia que la máquina.
 4. Sticker amarillo: si se despega, mejor.
 
-**Plan B** si no quieren madera: pintar **solo el nicho** (las tres caras del hueco) gris piedra mate. Entonces sí hay que resanar antes. El comedor sigue blanco; el pozo se lee servicio. No pintar toda la cocina.
+**Plan B** si no quieren madera: pintar **solo el pozo** gris carbón mate (el muro del fondo, opcional las caras interiores del hueco). El comedor y el muro hacia la mesa siguen blancos. Entonces sí hay que resanar antes: el oscuro enseña cada hoyo.
+
+No negro azabache: la máquina es gris y se ve sucia contra un negro puro. Carbón / grafito, la misma familia que los gabinetes. Los tubos blancos sobre carbón son el dibujo industrial.
+
+No pintar:
+
+- El muro blanco hacia la mesa (el cascarón del comedor).
+- El muro de la ventana.
+- Madera + pintura negra juntas (se mata el taller).
+
+6–12 meses: se vuelve a blanco al irse. La madera se destornilla; la pintura se repara.
 
 No: cortina, pegboard, planta, cuadro, segunda caja, BOAXEL.
 
