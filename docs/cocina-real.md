@@ -79,7 +79,7 @@ El resto, igual de barato:
 
 Eso es el sliver oscuro que se ve desde el comedor: el pozo se recuesta, la mesa sigue en aire blanco. Los tubos blancos sobre carbón son el dibujo.
 
-Ref tipo [Laundry Co.](../refs/depa-real/cocina/boaxel-refs/05-muro-negro-styling-no.jpg): se copia el **campo oscuro**, no el pegboard, el letrero, las canastas ni los rollos. Esa foto es un cuarto de lavado con tarja. Aquí es una cara. Encima, nada.
+Ref tipo [Laundry Co.](../refs/depa-real/cocina/boaxel-refs/05-muro-negro-styling-no.jpg) o [pizarra](../refs/depa-real/cocina/boaxel-refs/06-pizarra-lettering-no.jpg): se copia el **campo oscuro**, no pegboard, letrero, frases, canasta de mimbre ni toalla de adorno. Esas fotos son un cuarto de lavado. Aquí es una cara. Encima, nada.
 
 No pintar:
 
