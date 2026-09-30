@@ -141,16 +141,38 @@ Pared: sigue vacía. No compensar el cubo con un cuadro.
 
 Siguen casi vacías. Máximo: **una** foto con cinta **o** un tablero chico de chapa atrás del desk (cara trabajo), no hacia la TV. Cero galería. Cero franja de corcho (ni en sala ni en lavandería).
 
-## Plan ~1 mes (gastar poco)
+## Lista de gasto (esencial)
 
-Orden: restar → agrupar → (opcional) una compra.
+Techo: **solo lo que cambia el cuadro**. 6–12 meses. Quitar primero. El Billy ya está; no se compra segundo.
 
-1. **Semana 1 — restar.** Todo lo que no sea las piezas de la tabla, fuera de la sala. Archivar el 80% de papel/vinyl.
-2. **Semana 2 — una estación.** Lo visible de revistas/libros/discos en un solo punto, stacks o crates. Desk otra vez vacío (teclado, mouse, una taza).
-3. **Semana 3 — una rara, si ya está.** Bowl de llaves, una foto con cinta, el player si se usa. No ir a comprar “rarezas”.
-4. **Billy:** muro largo de sala. No segundo módulo para cocina.
+### Comprar (en este orden)
 
-Prohibido en este plazo: alfombra persa, sillas icónicas, gabinetes de cocina, cama nueva, obra.
+| # | Qué | Por qué | Cuánto |
+|---|---|---|---|
+| 1 | **Colcha recámara** (la que se duerme) | El navy quilted es lo que más pelea. Una funda **lavada, lisa, carbón/piedra** (no azabache: pelo blanco + king hueco). Algodón washed / muslin, arrugado. Calvin Klein Washed Texture gris en Palacio (~$3 300 oferta) es el tipo correcto; H&M solo si es muslin/washed, no satín. | ~$2 500–3 500 |
+| 2 | Pintura nicho lavandería | Vinílica mate grafito casi negro, solo la cara del fondo. Barato, se ve todos los días desde la mesa. | ~$400–800 |
+| 3 | [HAVSDJUP 90 cm](https://www.ikea.com/mx/es/p/ikea-ps-2026-havsdjup-lampara-de-techo-hecho-a-mano-blanco-s79625405/) sobre la mesa | La lámpara de casa. **Esperar stock.** No sustituir por cúpula 38 cm ni por esfera en sala. | $1 199 + globo 2700 K |
+| 4 | Colchón del perro | Uso, no decoración. Rectángulo bajo, gris carbón, **no** a juego con el teddy, **no** negro. Al lado del sillón, hacia el TV, al piso. No cesta de ratán. | ~$300–1 500 |
+| 5 | Colcha visitas (opcional) | El cuarto es archivo. Si se ve al pasar: **la misma familia de color**, más barata. No un segundo Calvin Klein. | ~$800–1 500 |
+
+Suma del 1–4: **~$4 500–7 000**. Con visitas: **~$5 500–8 500**. Eso es el depa.
+
+### Último, si sobra
+
+Tapete: [TIOKRONA 160×230](https://www.ikea.com/mx/es/p/tiokrona-tapete-natural-00628218/) ~$1 499. LOHALS no vale el doble para este plazo. Si el 1–4 ya se hizo y el piso te sigue bien: **no**.
+
+### No comprar
+
+| Idea | Por qué |
+|---|---|
+| Riel 3–4 focos sobre el desk ([HEKTAR](https://www.ikea.com/mx/es/p/hektar-riel-de-techo-con-3-focos-gris-oscuro-00545708/) 61 cm, BÄVE blanco) | Convierte la isla en oficina. Se ve desde el teddy. Taladro. La lámpara de task ya ilumina el teclado. Una lámpara de casa: el farol de la mesa. |
+| Esfera de papel 70 cm en sala | Compite con HAVSDJUP. Un farol por depa, sobre la mesa. La sala aguanta el plafón. |
+| Cúpula chica en cocina “mientras no hay stock” | Escala mal. Esperar el papel. |
+| Cuadro negro 1×1 m sobre el Billy | La pared se queda vacía. No compensar el cubo. Le quita el aire y le gana a los libros. |
+| Cama de perro verde a juego / negra / ratán | Set de catálogo, o pelo blanco a la vista, o mueble de mascota. |
+| Dos faroles grandes | Ya dicho: uno. |
+
+Manija naranja y mangueras: gasto mínimo, sí, cuando se pinte el nicho. Cafetera a la cubierta: $0.
 
 ## Cocina
 

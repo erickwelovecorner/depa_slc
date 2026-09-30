@@ -4,7 +4,7 @@ Estado: fotografiada. Patio/hierba: después. Visitas: archivo, no competir.
 
 Fotos: [`01`](../refs/depa-real/recamara/01-tv-kallax.jpg) · [`02`](../refs/depa-real/recamara/02-ventana-tapete.jpg) · [`03`](../refs/depa-real/recamara/03-maleta.jpg) · [`04`](../refs/depa-real/recamara/04-cama.jpg)
 
-Norte visual: [recámara](zonas/recamara.md). Aquí manda luz, perro blanco y **una sola compra**.
+Norte visual: [recámara](zonas/recamara.md). Aquí manda luz, perro blanco y **una sola compra grande**: la colcha de esta cama. Visitas lleva una funda más barata del mismo color, o nada.
 
 ## Qué ya está bien (no se toca)
 
