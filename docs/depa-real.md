@@ -43,6 +43,24 @@ No comprar sofá, desk, silla de diseño, mueble de TV, mesa de centro nueva.
 - **Dos mesas chicas en vez de una ancha.** Ok.
 - **Cocina “de otra forma”.** Se ajusta con quitar y agrupar. Fotos después.
 
+## Alfombra (opcional)
+
+La sala **ya se lee** sin tapete: loseta clara + teddy + aire. No está incompleta. Si se pone una, es para dibujar la zona del sillón (frente al TV) y templar el piso, no para “decorar”.
+
+Sí, si se compra: **una, lisa, grande**, solo en la cara living del teddy. Patas delanteras del sofá + las dos mesas redondas encima. Las bancas de la TV y el escritorio **fuera**. Nada bajo la isla.
+
+No: persa (ya prohibida en este plazo), pelo (STOENSE, shag: el perro blanco la llena), check (TIPHEDE: cocina), 120×180 (felpudo), verde a juego con el sofá.
+
+IKEA, techo $3–4 mil:
+
+| | Medida | Precio |
+|---|---|---|
+| [LOHALS](https://www.ikea.com/mx/es/p/lohals-tapete-natural-00277395/) yute plano | **160×230** (o 200×300 si cabe sin comer el desk) | ~$2 999 / $3 499. **Gana.** Refs + perro + se la lleva. |
+| [TIOKRONA](https://www.ikea.com/mx/es/p/tiokrona-tapete-natural-00628218/) yute más delgado | 160×230 | ~$1 499. Misma idea, menos cuerpo. |
+| MORUM, STOENSE, TIPHEDE | — | No. Terraza, pelo, o felpudo. |
+
+Si al quitar el espejo el blanco + loseta te sigue pareciendo bien: **no compres**. El cascarón aguanta.
+
 ## El único problema real: el archivo
 
 Hay muchas revistas, libros y discos. En este metro cuadrado, **mostrarlos todos mata el cascarón**.
