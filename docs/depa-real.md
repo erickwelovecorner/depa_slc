@@ -147,15 +147,20 @@ Techo: **solo lo que cambia el cuadro**. 6–12 meses. Quitar primero. El Billy 
 
 ### Comprar (en este orden)
 
-| # | Qué | Por qué | Cuánto |
-|---|---|---|---|
-| 1 | **Colcha recámara** (la que se duerme) | El navy quilted es lo que más pelea. Una funda **lavada, lisa, carbón/piedra** (no azabache: pelo blanco + king hueco). Algodón washed / muslin, arrugado. Calvin Klein Washed Texture gris en Palacio (~$3 300 oferta) es el tipo correcto; H&M solo si es muslin/washed, no satín. | ~$2 500–3 500 |
-| 2 | Pintura nicho lavandería | Vinílica mate grafito casi negro, solo la cara del fondo. Barato, se ve todos los días desde la mesa. | ~$400–800 |
-| 3 | [HAVSDJUP 90 cm](https://www.ikea.com/mx/es/p/ikea-ps-2026-havsdjup-lampara-de-techo-hecho-a-mano-blanco-s79625405/) sobre la mesa | La lámpara de casa. **Esperar stock.** No sustituir por cúpula 38 cm ni por esfera en sala. | $1 199 + globo 2700 K |
-| 4 | Colchón del perro | Uso, no decoración. Rectángulo bajo, gris carbón, **no** a juego con el teddy, **no** negro. Al lado del sillón, hacia el TV, al piso. No cesta de ratán. | ~$300–1 500 |
-| 5 | Colcha visitas (opcional) | El cuarto es archivo. Si se ve al pasar: **la misma familia de color**, más barata. No un segundo Calvin Klein. | ~$800–1 500 |
+Cesta concreta (sep 2026). **Techo a gastar: $10 000.** Si sales a ~$9 400, está bien; no subir de $10 500.
 
-Suma del 1–4: **~$4 500–7 000**. Con visitas: **~$5 500–8 500**. Eso es el depa.
+| # | Qué | Pieza | Precio |
+|---|---|---|---|
+| 1 | Relleno king | [SMÅSPORRE ligeramente cálido, King](https://www.ikea.com/mx/es/p/smasporre-duvet-ligeramente-calido-60457020/) | $1 299 |
+| 1b | Relleno matrimonial | SMÅSPORRE ligeramente cálido, Matrimonial | ~$1 100 |
+| 1c | Lo que se ve (king) | Funda Calvin Klein Washed Texture gris, Palacio ([ficha](https://www.elpalaciodehierro.com/calvin-klein-home-juego-de-funda-para-duvet-king-size-de-algodon-washed-texture-gris-43792549.html)) ~$3 300. Algodón lavado, no satín. H&M solo muslin/washed. | $3 300 |
+| 2 | Nicho lavadora | 4 L vinílica mate grafito + primer cubriente + cinta/rodillo | $700–900 |
+| 3 | Comedor | [HAVSDJUP 90 cm](https://www.ikea.com/mx/es/p/ikea-ps-2026-havsdjup-lampara-de-techo-hecho-a-mano-blanco-s79625405/) + globo ópalo **2700 K** | $1 199 + ~$80 |
+| 4 | Velinda | [Reddy rectangular bi-temperatura gris, Petco](https://www.petco.com.mx/p/135263). Talla según se estire (hocico–cola + 10 cm). Funda lavable. No ratán, no verde, no negra. | $1 500–2 200 |
+
+Visitas: ya hay colcha → solo el relleno. No segunda funda cara.
+
+Suma típica: **~$9 200–9 800**. Eso es el depa.
 
 ### Último, si sobra
 
