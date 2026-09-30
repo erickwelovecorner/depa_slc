@@ -54,7 +54,15 @@ No es difícil. Es **una tarde**, no obra.
 
 Tablero pino/birch 12–15 mm en el mismo plano, recorte en el panel. Se destornilla. No las dos cosas. Ref: [`07`](../refs/depa-real/cocina/07-nicho-taller-ref.png).
 
-No: cortina, pegboard, planta, cuadro, segunda caja, BOAXEL.
+### Corcho: no (ni en vez de pintar)
+
+No sustituye el grafito. El hueco es agua + tablero eléctrico + vista desde la mesa. El corcho es papelera seca: se hincha, se mancha, hay que recortar el panel y las llaves, y el adhesivo al irte es peor que dos manos de blanco.
+
+Las refs ([memory wall](../refs/depa-real/cocina/boaxel-refs/07-corcho-memory-wall-no.jpg), [bolsas](../refs/depa-real/cocina/boaxel-refs/08-corcho-bolsas-no.jpg), [collage](../refs/depa-real/cocina/boaxel-refs/09-corcho-collage-estudio-no.jpg)) son franjas para **llenar**: fotos, tote, ganchos. Aquí encima va nada. Corcho vacío es un rectángulo café genérico; corcho lleno es el refri otra vez, a un metro del comedor.
+
+Tampoco va atrás del escritorio: ese muro es el blanco de la sala. Ver [trabajo](zonas/trabajo.md).
+
+No: cortina, pegboard, **corcho**, planta, cuadro, segunda caja, BOAXEL.
 
 ## BOAXEL: no en este hueco
 

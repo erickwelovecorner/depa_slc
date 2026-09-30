@@ -86,11 +86,13 @@ El teddy **en el depa real es verde bosque**, no crudo. Cumple peso + perfil baj
 - Una silla de trabajo
 - Monitor bajo, light bar, mat
 - Planta al lado, no encima de cables
+- Si hace falta tablero: **chico, chapa, aire**. Cara de quien se sienta, no el muro blanco de la sala.
 
 **No**
 
 - Escritorio contra la pared “para que no se vea”
 - Cubículo, biombo, librero de 2 m de espalda al sofá
+- Franja de corcho / memory wall (tampoco en la lavadora)
 - Escritorio blanco de oficina / esquina en L
 - Triple monitor + RGB
 - Cajoneras altas que tapen el living

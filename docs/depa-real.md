@@ -121,7 +121,7 @@ Pared: sigue vacía. No compensar el cubo con un cuadro.
 
 ## Paredes
 
-Siguen casi vacías. Máximo: **una** foto con cinta **o** un tablero chico atrás del desk (cara trabajo), no hacia la TV. Cero galería.
+Siguen casi vacías. Máximo: **una** foto con cinta **o** un tablero chico de chapa atrás del desk (cara trabajo), no hacia la TV. Cero galería. Cero franja de corcho (ni en sala ni en lavandería).
 
 ## Plan ~1 mes (gastar poco)
 
